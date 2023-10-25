@@ -89,21 +89,21 @@ AGAMENNONE. Tragedia di Seneca tradotta dal Latino in Italiano. — Colonia, per
 AGAMENNONE. Tragedia tradotta dal Francese in prosa. — in Bologna, per il Lenghi. 1719 in 12 — del Co. Antonio Zaniboni, Bolognese.
 AGAR. Oratorio. — in Bologna, nella Stamperia Camerale. 1689 in 8 — Poesia di Gregorio Malisardi.
 AGATA. Dramma Musicale, — Poesia di Carlo Mancini di Catania.
-AGATA, S. Oratorio cantato nell'Augustissima Cappella della S. C. R. M. dell'Imperadrice Eleonora l’ anno 1678 — in Vienna d'Austria, per il Cosmerovio, 1678 in 4 — Poesia del P. Luigi Ficieni.
-AGATA, S. Tragedia Sacra (in prosa). — in Catania, appr. Vincenzo Petronio. 1663 in 8 — di Giuseppe Squillacci, di Catania.
-AGATA, S. Tragedia Sacra, posta in luce da Martino la Farina. — in Palermo, per Giambatista Maringo, 1663 in 12 — Poesia del P. Ortensio Scamacca, Siciliano, della Compagnia di Gesù.
-AGATA, S. Tragedia Sacra. — in Palermo, per il Bisagni, 1664 in 12 — Poesia di Lionardo Omodei, nell'Accademia di Palermo detto lo Avvivato.
+S. AGATA. Oratorio cantato nell'Augustissima Cappella della S. C. R. M. dell'Imperadrice Eleonora l’ anno 1678 — in Vienna d'Austria, per il Cosmerovio, 1678 in 4 — Poesia del P. Luigi Ficieni.
+S. AGATA. Tragedia Sacra (in prosa). — in Catania, appr. Vincenzo Petronio. 1663 in 8 — di Giuseppe Squillacci, di Catania.
+S. AGATA. Tragedia Sacra, posta in luce da Martino la Farina. — in Palermo, per Giambatista Maringo, 1663 in 12 — Poesia del P. Ortensio Scamacca, Siciliano, della Compagnia di Gesù.
+S. AGATA. Tragedia Sacra. — in Palermo, per il Bisagni, 1664 in 12 — Poesia di Lionardo Omodei, nell'Accademia di Palermo detto lo Avvivato.
 AGATA COSTANTE. Tragedia. — in Viterbo, per Bernardino Diotallevi. 1602 in 12 — Poesia di Fr. Bernardino Turamini, Minor Osserv.
 AGATA COSTANTE, Rappresentazione. — Viterbo, per il Discepolo. 1630 in 12 — di Fr. Bernardino Turamini Min. Osserv.
-AGATA, S. COSTANTE, Tragica Rappresentazione posta in Atto scenico (in prosa). — in Firenze, nella Stamperia del Sermartelli. 1640 in 12 - di D. Michiel Angiole Fantini, da Colle di Val d'Ella.
+S. AGATA COSTANTE, Tragica Rappresentazione posta in Atto scenico (in prosa). — in Firenze, nella Stamperia del Sermartelli. 1640 in 12 - di D. Michiel Angiole Fantini, da Colle di Val d'Ella.
 AGATA MARTIRIZZATA; Rappresentazione. — in Napoli, per Giambatista Sottile. 1608 in 8 — ed ivi, per Eustazio Nucci. 1617 in 12 — Poesia di Girolamo Chisella.
 AGESILAO. Tragedia, tradotta dal Francese di Pietro Cornelio (in prosa). in Bologna, per il Longhi. senz'anno. in 12 — d'Incerto.
 AGESILAO. Tragedia tradotta da Giuseppe Baretti. — Venez. per il Bertella. 1747 in 4 con altre Tragedie.— di Pietro Cornelio.
 AGIDE RE DI SPARTA. Dramma rappresentato l'anno 1725. in Venezia nel Teatro di S. Mosè. — in Ven. appresso Marino Rossetti. 1725. in 12 — Poesia di Luisa Bergalli, Veneziana, tra gli Arcadi, Irminda Partenide. — Musica di Giovanni Porta, Veneziano. 
 AGLAE. Tragedia Sacra. — in Firenz. nella Stamperia di Pietro Nesti. 1655 in 4 — Poesia di Girolamo Bartolommei, già Smeducci
 AGNELLA. Commedia (in prosa) recitata in Asola nella venuta del Duca di Nemours, del Duca di Buillon, ed altri Francesi. — Trevigi. 1558 in 8 — ed in Venez. appresso Alde 1585 in 8 — di Carlo Turco, Asolano.
-AGNESA, S. Rappresentazione Sacra. in Firenze, per Michiel-Agnolo di Bartolommeo Sermartelli. 1591 in 8, ed in Serravalle di Venezia, per Matteo Claseri. 1606 in 12 — Poesia di Fr. Gio. Angiolo Lottini, dell'Ordine de' Servi di Maria.
-AGNESA, S. Tragedia. — in Catania. 1673 in 8 — Poesia di Carlo Mancini, di Catania.
+S. AGNESA. Rappresentazione Sacra. in Firenze, per Michiel-Agnolo di Bartolommeo Sermartelli. 1591 in 8, ed in Serravalle di Venezia, per Matteo Claseri. 1606 in 12 — Poesia di Fr. Gio. Angiolo Lottini, dell'Ordine de' Servi di Maria.
+S. AGNESA. Tragedia. — in Catania. 1673 in 8 — Poesia di Carlo Mancini, di Catania.
 AGNESA DI FAENZA. Commedia in versi. — Verona, per il Vallarsi, 1743 in 8 — di Giulio Cesare Beccelli Veronese.
 AGNESE. Tragedia Sacra, — in Palermo, appresso Niccolò Bua, e Michele Portanova. 1646 in 12 — Poesia di Fr. Cherubino Bello, Siciliano, di Terranova.
 AGNESE TRIONFANTE. Tragicommedia Spirituale (in prosa) — in Macerata, per Agostino Grisei. 1640. in 12 — del M. R. P. Vagnozzo Pica, Preposto della Venerab. Congregazione dell'Oratorio della Città di Ripatransona.
@@ -120,7 +120,7 @@ AGNOLO RAFFAELLO, E TOBIA. Rappresentazione — in Siena alla Loggia del Papa, s
 AGNOTISIA, ovvero, la Pura Vittima. Rappresentazione della Passione di Nostro Signore. — in Venezia, per Alessandro Polo. 1620. in 12 Poesia di Giuseppe Mozzagrugno, Gentiluomo di Lucera in Puglia, originario di Lanciano, Canonico Regolare del Salvatore, ed Abate. Il Zoppi lo chiama Mazzagrugno.
 AGONIA DEL GLORIOSO S. GIUSEPPE. Oratorio a tre voci. — in Venezia, per Andrea Poletti, 1710. in 8 — Poesia di Lione Alberici, di Orvieto.
 AGOSTINO. Oratorio per Musica, — in Mantova, nella Stamperia Ducale. 1692 in 8 — Poesia d'incerto Autore.
-AGOSTINO, S. BATTEZZATO. Rappresentazione Sacra. — in Venezia, per Barezzo Barezzi, 1629, in 8 - Poesia di Paolino Fiamma, Crocifero. 
+S. AGOSTINO BATTEZZATO. Rappresentazione Sacra. — in Venezia, per Barezzo Barezzi, 1629, in 8 - Poesia di Paolino Fiamma, Crocifero. 
 A GRAN DANNO, GRAN RIMEDIO. Commedia in prosa tradotta dallo Spagnuolo. — senza luogo, Stampatore, e anno 12 - di Francesco Manzani.
 AGRIPPA. Opera tradotta dall'Idioma Francese, e accomodata per le Scene all'uso d'Italia (in prosa) — in Bologna, nella Stamperia del Longhi, 1699 in 12 - d'Incerto.
 AGRIPPA RICONOSCIUTO. Tragedia tradotta dal Francese, — Ven. per il Fenzo, 1745 in 12 — d'Incerto.
@@ -128,21 +128,20 @@ AGRIPPINA. Dramma recitato l'anno 1709. in Venezia, nel Teatro di S. Gio. Grisos
 AGRIPPINA IN BAJA. Scherzo Drammatico per Musica. — in Ferrara, per il Pomatelli. 1687 in 12 — Poesia del Dott. Giuseppe Contri.
 AGRIPPINA MINORE. Dramma. — in Verona, per Domenico Rossi. 1673. in 12 — Poesia di D. Carlo Marchesini, fra Timidi il Fugace.
 AJACE. Dramma per Musica. — in Milano, nella Stamperia di Carlo Federigo Gagliardi. 1694 in 8 — Poesia d'incerto Autore.
-AJACE FLACELLIFERO, Tragedia di Sofocle tradotta in volgare. — in Venezia, per Lucio Spineda, 1603, in 8 — Poesia di Girolamo Giustiniani, Genovese.
-AL ALARICO REDE GOTI. Dramma recitato in Ferrara l'anno 1685. nel Teatro Bonacossi. — in Bologna, per Gioseffo Longhi. 1685 in 12 — Poesia d'incer19 AL incerto Autore. — Musica di Giambatista Bassani, Padovano. — Replirato l'anno stesso nel Teatro pubblico di Belogna. — Musica del detto Bassani. ed in Bologna l'anno 1716, nel Teatro Formagliari. — Musica del suddetto Bassani, — e di nuovo in Ferrara l'anno 1686 — in Bologna, per il Longhi. 1686 in 12 ALARICO IN ROMA. Dramma recitato in Padova l anno 1680. 2 in Padova, per il Pasquati, 1680. in 12 — Poesia di Bartolommeo Groppi.
-ALARICO: Drama rappresentato nel Teatro Obizzi di Padova l'anno 1709 in Padova, senza Stampatore, 1709 in 12 — Poesia d'Incerto.
-ALBA CORNELIA, Dramma rappresentato nella Celarea Corte, per comando Augustissimo nel Carnevale dell'anno 1714 — in Vienna, per gli Eredi Cosmeroviani. 1714, in 8. Poesia di Silvio Stampiglia, Romano. — Musica di Francesco Conti.
-ALSA SOGOIOGATA DA ROMANI. Dramma per Musica rappresentato anno 1695. nel Teatro Malvezzi di Bologna, — in Reggio, per il Vedrotti, 1695 in 12 — Poesia d'interto Autore.
+AJACE FLACELLIFERO. Tragedia di Sofocle tradotta in volgare. — in Venezia, per Lucio Spineda, 1603, in 8 — Poesia di Girolamo Giustiniani, Genovese.
+ALARICO RE DE' GOTI. Dramma recitato in Ferrara l'anno 1685. nel Teatro Bonacossi. — in Bologna, per Gioseffo Longhi. 1685 in 12 — Poesia d'incerto Autore. — Musica di Giambatista Bassani, Padovano. — Replicato l'anno stesso nel Teatro pubblico di Belogna. — Musica del detto Bassani. ed in Bologna l'anno 1716, nel Teatro Formagliari. — Musica del suddetto Bassani, — e di nuovo in Ferrara l'anno 1686 — in Bologna, per il Longhi. 1686 in 12 
+ALARICO IN ROMA. Dramma recitato in Padova l'anno 1680. 2 in Padova, per il Pasquati, 1680. in 12 — Poesia di Bartolommeo Groppi.
+ALARICO. Drama rappresentato nel Teatro Obizzi di Padova l'anno 1709 in Padova, senza Stampatore, 1709 in 12 — Poesia d'Incerto.
+ALBA CORNELIA. Dramma rappresentato nella Celarea Corte, per comando Augustissimo nel Carnevale dell'anno 1714 — in Vienna, per gli Eredi Cosmeroviani. 1714, in 8. Poesia di Silvio Stampiglia, Romano. — Musica di Francesco Conti.
+ALBA SOGGIOGATA DA ROMANI. Dramma per Musica rappresentato anno 1695. nel Teatro Malvezzi di Bologna, — in Reggio, per il Vedrotti, 1695 in 12 — Poesia d'interto Autore.
 ALBESINDA. Tragedia, — in Venezia, presso Cristoforo Tommasini. 1623. in 4 Poesia di Bernardino Campelli, di Spoleti.
-ALBTDO, Favola Pastorale, — in Roma, per Giacomo Mascardi, 1624 in 12 ed ivi, per Lodovico Grighani, 1646. in 8 —Poesia d'Ivo Gattula, Profelfore Primario di Legge nello Studio di Roma.
-ALEIRA, Tragedia Poliico-Motale. — in Catania, appresso il Bisagni. 1584 in 4 - di Francesco Morabito, di Catania.
-ALBOINO; Dramma per Musica rappreseatao hella Ces, A. Corte nel 
-AL Carnevale dell'anno 1707 — in Vien na, appresso gli Eredi Cosmerovia ni, 1707 in 8 — Poesia d'incert Autore, Musica di Mare'Anton Ziani, Veneziano, Maestro di Cap pella di S. M. Ces.
-ALBOINO IN ITALIA. Dramma reci tato in Venezia l'anno 1691, ne Teatro de' SS. Gio. e Paolo. — in Venezia, per il Niccolini, 1691. it 12 — Poesia di Giulio Cesare Corra di, Parmigiano. — Musica di Giusep pe Felice Tosi, Bolognese, e d. Carlo Francesco Pollarolo, Lresciano.
-ALBOINO, Tragedia (in versi). Roma, per il Falco. 1620 in 8di Lodovico Casali Romano.
-ALBUMAZAR Dramma recitato in Venezia l'anno 1727. nel Teatro di S. Salvatore, — in Ven. per Marino Rossetti. 1727 m 12 — Poesia di Giuseppe Maria Buini, Bolognese; o per lo meno gli fu attribuita, Musica dello stesso. — Replicato l'anno stesse nel Teatro Formagliars di Bologna, Musica del medesimo Buini.
-ALCATE, Dramma per Musica rappresentato l'anno 1642 in Ven. nel Peatro della Cavallerizza, — in Ven, presso Giambatista Suriano. 1642. in | 12 — Poesia del Dott. Marc' Antonio Tirabosco, Veneziano. — Muftea di Francesco Manens, di Tivoli.
-ALCEO, Favola Pescatoria recitata in Neftuno nel Castello de Signori Colonnesi, posta alle Stampe la prima volta, -e dedicata agl'Illustri Fratelli il Sig. Girolamo, ed il Sig. Michele Ruis, con Lettera in data di Roma 25 Agosto 1581 — 1582 in Venezia, per Francesco Ziletti in 8. Sono premessi alla Favola alcuni Componimenti in lode dell'Autore. 1587 in Ferrara, ad istanza di Alsonso Carassa, in 12. Nel fine si leg. gra 
+ALBIDO. Favola Pastorale, — in Roma, per Giacomo Mascardi, 1624 in 12 ed ivi, per Lodovico Grighani, 1646. in 8 — Poesia d'Ivo Gattula, Professore Primario di Legge nello Studio di Roma.
+ALEIRA. Tragedia Politico-Morale. — in Catania, appresso il Bisagni. 1584 in 4 - di Francesco Morabito, di Catania.
+ALBOINO. Dramma per Musica rappresentato nella Ces. R. Corte nel Carnevale dell'anno 1707 — in Vienna, appresso gli Eredi Cosmeroviani, 1707 in 8 — Poesia d'Incerto Autore, Musica di Marc'Antonio Ziani, Veneziano, Maestro di Cappella di S. M. Ces.
+ALBOINO IN ITALIA. Dramma recitato in Venezia l'anno 1691, nel Teatro de' SS. Gio. e Paolo. — in Venezia, per il Niccolini, 1691. in 12 — Poesia di Giulio Cesare Corradi, Parmigiano. — Musica di Giuseppe Felice Tosi, Bolognese, e di Carlo Francesco Pollarolo, Bresciano.
+ALBOINO. Tragedia (in versi). Roma, per il Falco. 1620 in 8 - di Lodovico Casali, Romano.
+ALBUMAZAR. Dramma recitato in Venezia l'anno 1727. nel Teatro di S. Salvatore, — in Ven. per Marino Rossetti. 1727 m 12 — Poesia di Giuseppe Maria Buini, Bolognese; o per lo meno gli fu attribuita, Musica dello stesso. — Replicato l'anno stesso nel Teatro Formagliari di Bologna, Musica del medesimo Buini.
+ALCEO. Favola Pescatoria recitata in Neftuno nel Castello de Signori Colonnesi, posta alle Stampe la prima volta, -e dedicata agl'Illustri Fratelli il Sig. Girolamo, ed il Sig. Michele Ruis, con Lettera in data di Roma 25 Agosto 1581 — 1582 in Venezia, per Francesco Ziletti in 8. Sono premessi alla Favola alcuni Componimenti in lode dell'Autore. 1587 in Ferrara, ad istanza di Alsonso Carassa, in 12. Nel fine si leg. gra 
 AL gono queste parole : in Ferrara, per Giulio Cesare Cagnaccini, e Fratelli 
 MDIXXXVII. — 
 1587 in Venez. per li Zoppini. in 12 — 1592 ivi, per Giambattista Bonfadino. in 12 1599 ivI, per il detto. in 12 — 1603 ivi, per Nicold Tebaldini. in 12 — 1605 ivi, per Giambatista Bonfadino. in 12 - 1606 in Messina, nella Stamperia di Pietro Brea, e Lorenzo Valle. in 12 —
