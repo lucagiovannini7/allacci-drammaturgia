@@ -187,7 +187,7 @@ ALESSANDRO IN PERSIA. Dramma rappresentato in Lucca — in Ven. per il Pasquali.
 ALESSANDRO IL GRANDE. di M. Racine tradotta da Luisa Bergalli Veneziana - in Venezia, per il Lovisa. 1736 in 12, colle altre dello stesso.
 ALESSANDRO IL GRANDE. di M. Racine tradotta da Incerto. — in Bologna, per il Volpe. 1724 in 12. 
 ALESSI FORSENNATO. Favola boshereccia - in Napoli, per Giacomo Carlino. 1601 in 12 — Poesia di Scipione Ponzio.
-ALESSIO. Dramma Sacro (in presa). — in Genova, nella Stamperia del Fracchelli, senz'anno, in 12 - di D. Pietro Bernardo Palmaro, di S. Remo. 
+ALESSIO. Dramma Sacro (in prosa). — in Genova, nella Stamperia del Fracchelli, senz'anno, in 12 - di D. Pietro Bernardo Palmaro, di S. Remo. 
 ALESSIO. Tragedia Sacra. — in Palermo, per Giambatista Maringo. 1632 in 12 — Poesia del P. Ortensio Scamacca, Siciliano, della Compagnia di Gesù; benchè data in luce dall'Ab. D. Martino la Farina 
 S. ALESSIO. Rappresentazione della Vita, e Morte del glorioso S. Alessio, — in Orvieto, per Antonio Colaldi, 1608 in 12 — in Ronciglione, per Lodovico Grignani e Lorenzo Lupis, 1621 in 12 — in Viterbo, per Bernardino Diotallevi. 1631 in 8 — in Ronciglione, per Antonio Landini. 1639 in 12 — ed in Bologna. 1647 — Poesia di Girolamo Marzi, Romano.
 S. ALESSIO. Dial. in Ven per il Poletri. 1700 in 8 con l'altre Poesie dell'Autore, — di Leone Alberici da Orvieto.
@@ -334,7 +334,7 @@ AMOR ACCIECA, ovvero, la Verità Mascherata. Opera Regia (in prosa). in Napoli, 
 AMOR CASTIGATO. Dramma Musicale. — in Firenze, per il Bonardi. 1656 in 4 — Poena di Girolamo Bartolommei, già Smeducci, Fiorentino.
 AMOR E CIECO, ovvero, La Barberia. Commedia (in prosa) — in Bologna, per il Longhi. senz'anno. in 12.
 AMOR CONIUGALE. Intramezzi per la Tragedia Musicale dell'Ippolito Red ivivo. — in Venezia, per Francesco Valvasense. 1659 in 12 — Poesia di Leopardo Bontempo, di Rimini.
-AMOR VUOL CORACGIO. Commedia (in prosa). — in Roma, per l'Ercole. 1677 in 12 — di Giuseppe Berneri, Romano.
+AMOR VUOL CORAGGIO. Commedia (in prosa). — in Roma, per l'Ercole. 1677 in 12 — di Giuseppe Berneri, Romano.
 AMOR CORTESE. Commedia Pastorale. — in Fano, per Giacomo Moscardo. 1570 in 12 — Poesia di Scipione Dionisio, di Fano.
 AMOR CORRISPONDENTE. Favola Pastorale. — in Napoli, per Gian-Domenico Montanaro, 1637 in 12 — Poesia di Francesco Antonio Mansella.
 AMOR COSTANTE Commedia (in prosa) dello Stordito Accademico Intronato, composta per la venuta dell'Imperadore a Siena l'anno 1531. — in Vinegia, per Andrea Arrivabene. 1540 in 8 — ivi, per Agostino Bindoni. 1551 in 8 — ivi, per Plinio Pietrasanta. 1554 in 8, con altre quattro. — ivi, per Gabriele Giolito de Ferrari. 1559 in 12 — ivi, per Altobello Salicato 1570 corretta da Girolamo Ruscelli. — ivi per Giacomo Cornetti. 1586 in 8 - ivi, per Michiel Bonibelli 1595 in 8 - ivi, per Lucio Spineda. in 8 — ed in Siena, per Matte Florini. 1611 in 12 — di Alessandro Piccolomini, Sanese.
@@ -375,7 +375,7 @@ AMOR INNAMORATO. Dramma recitato nel Teatro di S. Mosè di Venezia l'anno 1642 �
 AMOR INNAMORATO. Dramma rappresentato nel Teatro di S. Gio. Grisostomo di Venezia l'anno 1686 — in Venezia, per Francesco Niccolini. 1686 in 12 — Poesia di Matteo Noris, Veneziano. — Musica di Carlor Pallavicino, Bresciano.
 AMOR IN GARA COL FASTO. Dramma recitato nel Teatro Manfredini di Rovigo l'anno 1718 — in Venezia, per Cristoforo Bortoli, 1718 in 12 — Poesia dell'Ab. Francesco Silvani, Veneziano. — Musica di Carlo Francesco Pollaroli Bresciano.
 AMOR NON INTESO. Opera Scenica (in prosa) rappresentata in Reggio dalla Unione de Recitanti nel Teatro di quella Illustris. Comunità. — in Bologna, per il Longhi senz'anno. in 12 - d'Autore Inecerto.
-AMOR NON HA LECGE. Opera Scenica — in Napoli, per lo Scaghone. 1646. in 8 — ed in Bologna, per Giacomo Monti. 1663 e 1669 in 12 — Poesia di Gio. Francesco Savaro del Pizzo, Arcidiacono di Mileto. — Musica di diversi.
+AMOR NON HA LEGGE. Opera Scenica — in Napoli, per lo Scaghone. 1646. in 8 — ed in Bologna, per Giacomo Monti. 1663 e 1669 in 12 — Poesia di Gio. Francesco Savaro del Pizzo, Arcidiacono di Mileto. — Musica di diversi.
 AMOR DELLA LUNA. — in Venezia, per il Giuliani, 1654 in 12 — Poesia di Margarita Costa, Romana.
 AMOR, PER MAESTÀ, O sia, l'Arsace. Dramma per Musica. — in Firenze. 1715 in 12 — ed in Bologna l'anno 1722 nel Teatro Marsigli Rossi. Poesia di Antonio Salvi, Fiorentino di Lucignano. — Musica di Giuseppe Maria Buini, Bolognese.
 AMOR PER MERCEDE. Opera Scenica (in prosa), — in Napoli, per Domenico Antonio Parrino, e Michele Luigi Muzio. 1693 in 12 - di Gaetano Anselone.
@@ -545,7 +545,7 @@ ANGELICA IN INDIA. Dramma Musica. — in Vicenza, per gli Eredi Amadii. 1656 in 
 ANCELICA INNAMORATA. — in Venezia, per Francesco Marcolini 1553 in 4 — di Vincenzo Brusantino, detto anche Brugiantino.
 ANGELICA PELLEGRINA. Commedia (in prosa). — in Palermo, per Pietro-Isola 1649 in 12 — di Francesco Pandolfo, Palermitano.
 ANGELICA SCHIAVA. Commedia (prosa). — in Napoli, per Gio. Domenico Montanaro. 1635 in 12 - di Angelo Antonio Amabile.
-ANGELICA NEL CATAI. Melodramma recitato l'anno 1702 nel Regio Teatro di Milano alla presenza de la Sacra Réal Maesta di Filippo Re delle Spagne &c. &c. &c. — Milano, per Marc'Antonio Pandolfo Malatesta. 1702 in 8 — d'Incerto Autore 
+ANGELICA NEL CATAI. Melodramma recitato l'anno 1702 nel Regio Teatro di Milano alla presenza de la Sacra Réal Maestà di Filippo Re delle Spagne &c. &c. &c. — Milano, per Marc'Antonio Pandolfo Malatesta. 1702 in 8 — d'Incerto Autore 
 ANGELICA VINCITRICE D'ALCINA. Festa Teatrole rappresentata sopra Grande Peschiera dell'Imperiale Favorita, solennizzandosi la felicissima e gloriosa Nascita di Leopoldo Arciduca d'Austria, e Real-Principed Las Asturias, per comando della. C. e R. Catt. M. di Carlo VI. Imperad. dei Romani l'anno 1716. co fig. — in Vienna d'Austria per Gic Van Ghelen 1716 in 4 — Poesia Pietro Pariati, di Reggio di Modena. — Musica di Gian Gioseffo Fux Tedesco
 ANGELICA. Dramma rappresentato nel Teatro di S. Samuele in Venezia in Ven. per Marino Rossetti,in 12 — Poesia di Carlo Vedoa Veneziano. — Musica di Giambatista Lampugnani
 ANGELICO. Opera (in prosa), con gl'Intermedi in verso. — in Verona, per li Fratelli Merli, 1650 in 8 — del Cav. Francesco Pona, Veronese, Accademico Olimpico.
@@ -729,7 +729,7 @@ ARRENIONE. Dramma recitato nel Teatro di Sant'Angiolo di Venezia l'anno 1708 —
 ARRENOPIA. Tragedia, — in Venezia, per Giulio Cesare Cagnaccini. 1583 in 8 — di Giambatista Giraldi Cintio, Ferrarese.
 ARSACE. Tragedia. — in Venezia, per Gio. Pietro Pinelli. 1638 in 12 — di Francesco Cerati, di Vicenza, Accademico Olimpico, ed Incognito.
 ARSACE FONDATORE DELL'IMPERIO DE' PARTI. Dramma per Musica nel felicissimo dì Natalizio della S. e R. M. dell'Imper. Leopoldo per comando della Imperadr. Eleonora anno 1698 — in Vienna, per Susanna Cristina, Vedova di Matteo Cosmerovio. 1698 in 8 — Poesia di Donato Cupeda, Napoletano. — Musica di Antonio Draghi.
-ARSACE. Dramma rappresentato nel Teatro di S. Gio. Grisostomo di Venezia l'anno 1718 — in Venezia per Marino Rossetti. 1718 in 12 - Poesia del Dott. Antonio Salvi, Fiorentino. — Musica di Michiel Angiolo Gasparini, Lucchese. — Replicato nel Teatro Molza di Modona l'anno 1719 — in Modona per il Soliani. 1719 in 8 — Nel Teatro Obizzi di Padova anno 1722 — in Padova, per Giambarista Conzatti. 1722 in 8 — Musica del suddetto Gasparini. — Nel Teatro Marsigli Rossi di Bologna. anno stesso; ma sol titolo mutato così: AMORE, E MAESTA, O sia l'Arsace. — Musica di Giuseppe Maria Buini, Bolognese. — Nel Teatro dell'Accademia di Faenza l'anno 1728 — in Faenza, nella Stamperia dell'Archi. 1728 in 8 — Nel Teatro di Piazza di Vicenza l'anno. 1731. — in Venezia, appresso Carlo Buonarrigo 1731 in 12 — Musica del Gasparini luddetto. — Nel Teatro di S. Cassiano di Venezia l'anno 1737 — in Venezia, per Giuseppe Bettinelli. 1737 in 12 — Nel Teatro Pubblico di Prato l'anno 1736 — in Firenze nella Stamperia Paperini. 1736 in 8 — Musica di Giminiano Giacomelli, Parmigiano.
+ARSACE. Dramma rappresentato nel Teatro di S. Gio. Grisostomo di Venezia l'anno 1718 — in Venezia per Marino Rossetti. 1718 in 12 - Poesia del Dott. Antonio Salvi, Fiorentino. — Musica di Michiel Angiolo Gasparini, Lucchese. — Replicato nel Teatro Molza di Modona l'anno 1719 — in Modona per il Soliani. 1719 in 8 — Nel Teatro Obizzi di Padova anno 1722 — in Padova, per Giambarista Conzatti. 1722 in 8 — Musica del suddetto Gasparini. — Nel Teatro Marsigli Rossi di Bologna. anno stesso; ma sol titolo mutato così: AMORE, E Maestà, O sia l'Arsace. — Musica di Giuseppe Maria Buini, Bolognese. — Nel Teatro dell'Accademia di Faenza l'anno 1728 — in Faenza, nella Stamperia dell'Archi. 1728 in 8 — Nel Teatro di Piazza di Vicenza l'anno. 1731. — in Venezia, appresso Carlo Buonarrigo 1731 in 12 — Musica del Gasparini luddetto. — Nel Teatro di S. Cassiano di Venezia l'anno 1737 — in Venezia, per Giuseppe Bettinelli. 1737 in 12 — Nel Teatro Pubblico di Prato l'anno 1736 — in Firenze nella Stamperia Paperini. 1736 in 8 — Musica di Giminiano Giacomelli, Parmigiano.
 ARSACIDE. Dramma recitato nel Teatro di S. Mosè di Venezia l’anno 1721 — in Venezia, per Marino Rossetti. 1721 in 12 — Poesia del Co. Antonio Zanibon, Bolognese. — Musica di Fortunato Chelleri, Milanese 
 ARSILDA, Regina di Ponto. Dramma rappresentato nel Teatro di Sant'Angiolo di Venezia l'anno 1716 in Venezia, per Marino Rossetti. 1716 in 12 — Poesia di Domenico Lalli, Napolitano - Musica di Antonio Vivaldi, Veneziano.
 ARSINDA, ovvero la Discendenza de' Serenissimi Principi di Este. Dramma Tragicomico dato in luce dopo la morte dell'Autore - in Venezia per li Baba 1659 - ed ivi per li Prodotti 1678 in 12 - del Co. Fulvio Testi, Modonese, da cui fu lasciato imperfetto e poi ristampato col seguente titolo: ARSINDA del Signor Co. Fulvio Testi ridotta ad uso di teatro, e dedicata a' Cavalieri, che in pastoral guisa sogliono con leggiadre Dame ragunarsi ne Colli di San Lionardo di Verona. Seconda edizione - in Verona nella nuova Stamperia di Pietr'Antonio Berno. 1719 in 8. Questo drammatico componimento era stato, come s'è detto, lasciato imperfetto dal Co. Testi; ma finalmente il Sign. Co. Girolamo Spolverini, gentiluomo spiritosissimo veronese, prese l'impegno di ridurlo a fine, e vi riuscì ottimamente.
@@ -1009,7 +1009,7 @@ CAMMILLA. Commedia (in prosa). — in Foligno, per Agostino Alterj. 1631 in 12 �
 CAMMILLA REGINA DE' VOLSCI. Dramma recitato nel Teatro di San Salvatore di Venezia l'anno 1698 — in Venezia, per Girolamo Albrizzi. 1698 in 12 — Poesia di Silvio Stampiglia, Romano. — Musica di Marc'Antonio Bononcini, Bolognese. Sentitosi prima a Vienna. — Replicato nel Teatro Manfredini di Rougo anno 1705 col titolo di Fede in cimento. — in Ferrara, per Bernardino Pomatelli. 1705 in 12 — in Padova l'anno 1707 nel Teatro Obizzi col titolo di Fede in cimento. — in Padova, per Giuseppe Corona. 1707 CAin 12 — Nel Teatro Formagliari di Bologna l'anno 1709 col titolo di Amore per Amore, o sia Cammilla Regina de Volsci. — Nel Teatro Mantica di Udine l'anno 1715 col titolo di Camilla Regina de' Volsci. — in Udine, per Giandomenico Murero. 1715 in 12 — E di nuovo nel Teatro Formagliari di Bologna l'anno 1719 col titolo di Fede in cimento, o sia Cammilla Regina de' Volsci. In tutte le suddette ristampe fu soggetto a qualche cambiamento.
 CAMMILLO PENITENTE. Azione Scenica. — in Bologna, per Giacomo Monti. 1648 in 12 — di Geri Dioconme, cioè, di Domenico Regi Cherico Regolar. Ministro degl'Infermi
 CAMPANACCIA (la). Commedia (in prosa). — in Venezia, per Angiolo Salvadori. 1627 in 12 — ed ivi, per Alessandro Zatta. 1662 in 12 — di Giambatista Andreini, Fiorentino, Comico Fedele, detto Lelio.
-CAMPION DELLA FEDE. Oratorio per Musica (a cinque voci) per la Beatificazione di San Ceslao Fratello di San Giacinto. — in Milano, per Marc'Antonio Pandolfo Malatesta. 1715 in 12 — di Carlo Giuseppe Cornacchia, Accademico Affidato di Pavia, Innominato di Bra, ed Intrepido di Ferrara. — Sta nella P. I. del Segretario in Parnaso, ouvero, Lettere diverse intrecciate di varj Scherzi Poetici a c 401.
+CAMPION DELLA FEDE. Oratorio per Musica (a cinque voci) per la Beatificazione di San Ceslao Fratello di San Giacinto. — in Milano, per Marc'Antonio Pandolfo Malatesta. 1715 in 12 — di Carlo Giuseppe Cornacchia, Accademico Affidato di Pavia, Innominato di Bra, ed Intrepido di Ferrara. — Sta nella P. I. del Segretario in Parnaso, ovvero, Lettere diverse intrecciate di varj Scherzi Poetici a c 401.
 CANACE. Tragedia (in versi sciolti). in Firenze, per Francesco Doni, 1546 in 8 — in Venezia, per Vincenzo Valgrisi. 1546 in 8 — in Lucca, per Vincenzo Busdrago. 1550 in 8 — in Ven. per Gabriele Giolito de Ferrari. 1562 in 12 — ivi. senza Stampatore. 1566 in 8 — ed ivi, per Giovanni Alberti. 1597 in 4 — di Sperone Speroni, Padovano — Nelle tre ultime Edizioni si leggono varie Scritture, cioè, Apologie, Opposizioni, Difese, Lezioni, Considerazioni, &c. intorno all'Arte Tragica, ed alle accuse date alla Tragedia medesima da suoi Oppositori, &c.
 CANDACE. Dramma rappresentato nel Teatro di S. Gio. Grisostomo di Venezia. — in Venezia 1740 in 12 — dell'Ab. Francesco Silvani, e di Domenico Lalli — Musica del Lampugnani 
 CANDALIDE. Dramma recitato nel Teatro di Sant'Angiolo di Venezia l'anno 1734 — in Venezia, per Marino Rossetti. 1734 in 12 — Poesia di Bartolommeo Vitturi, Veneziano. — Musica di Tommaso Albinoni, Veneziano.
@@ -1068,7 +1068,7 @@ CARNEVALE, opera Accademica; Commedia (in prosa), in Venezia, per Giacomo Sarima
 CARNEVALE ESILIATO. Scherzo Drammatico. - in Ferrara, per Francesco Suzzi. 1652 in 8 — del Dott. Almerico Passarelli.
 CARNEVALE. Tragedia, cioè, Rappresentazione delle vittorie della Chiesa contro il Mondo, la Carne, e il Demonio. — in Roma, per Giacocomo Ruffinello 1591 in 12 — di Simone Tuballino, di Palermo.
 CASCATA DEGL'IDOLI NEL NASCIMENTO DEL REDENTORE. Rappresentazione Sacra. — in Napoli, per Carlo Troyse. 1701 in 12 - Baldassarre Pisani, Napoletano.
-CASILDA. Oratorio cantato in Musica dalle Rev. Madri di S. Giacomo di Vienna, dedicato alle Sacre Reali Maesta. — in Vienna, per Gio. Van Ghelen 1710 in 8 di Rocco Marial Rossi, Padovano 
+CASILDA. Oratorio cantato in Musica dalle Rev. Madri di S. Giacomo di Vienna, dedicato alle Sacre Reali Maestà. — in Vienna, per Gio. Van Ghelen 1710 in 8 di Rocco Marial Rossi, Padovano 
 CASIMIRO. Rappresentazione — in Napoli, per il Bulifon. 1686 in 12 - di Calcolone, cioè, Carlo Celano.
 CASSANDRA IN BABILONIA. Dramma per Musica. — in Palermo, per l'Anglesi, 1691 in 12 — di Antonio Salamoni, di Palermo.
 CASSARIA. Commedia (in prosa, e col solo Prologo in terzine in cinque Atti). — in Venezia, per Marchiò Sessa. 1536 in 8 — ivi, per il Giolito. 1562 in 12 - in versi con altre quattro dello stesso Autore. — ivi per Bartolommeo Rubino. 1587 in 12. in prosa, — ed in Venezia, per Stefano Orlandini. 1730 in foglio, con tutte le altre Opere dell'Autore in due Volumi. — Prosa, e Poesia di Lodovico Ariosto, Ferrarese 
@@ -1342,7 +1342,7 @@ COMMUNIONE DE' SANTI. Rappresentazione. — in Cremona, per G. A.Z. 1642 in 12 �
 COMPLIRE CON LA SUA OBBLIGAZZIONE. Opera Scenica (in prosa). — in Napoli, per il Porpora, e Troyse, 1697 in 12 — di Andrea Perrucci, di Palermo.
 COMPONIMENTO DRAMMATICO fatto per Musica nel giorno Natalizio della Sereniss. Maria Farnese Duchessa di Modona. — in Venezia, per li Giunti, e Baba, 1643 in 12 - colle altre Opere dell'Autore, — ed in Bologna, per Carlo Zenero, 1648 in 12 - colle altre Opere dell'Autore. — del Cav, Fulvio Testi, Modonese. 108.
 COMPONIMENTO per Musica (a tre voci) cantato a S. Alt. Reale, ed Elettorale Federigo Cristiano Figlio del Regnante Augusto di Polonia, ed Elettor di Sassonia, per comandamento di Sua Eccellenza il Sign. Don Giuseppe di Bacza, Evizentelo, Sumiglier de Cortina di S. M. Catt., Ab. de' Santi Pietro e Paolo d'Italia, e di Castro Xerrz, ed Ambasciadore Estraord. di S. M. il Re delle due Sicilie alla Sereniss. Repubblica di Venezia. — in Venezia. senza Stampatore. 1740 in 4 — Poesia, e Musica d'Incerti.
-COMPONIMENTO cantato (in Roma) nel giorno del gloriosissimo Nome della S. C. C. R. Maesta della Imperadrice Elisabetta Cristina, per comandamento dell'Eminentiss. e Reverendiss. Sig. il Sig. Card. Alvaro Cinfuegos, Vescovo di Catania, &c. in Roma, nella Stamperia del Komarek. 1723 in 4 — di Dionigi Fiorilli, di Terracina.
+COMPONIMENTO cantato (in Roma) nel giorno del gloriosissimo Nome della S. C. C. R. Maestà della Imperadrice Elisabetta Cristina, per comandamento dell'Eminentiss. e Reverendiss. Sig. il Sig. Card. Alvaro Cinfuegos, Vescovo di Catania, &c. in Roma, nella Stamperia del Komarek. 1723 in 4 — di Dionigi Fiorilli, di Terracina.
 COMPONIMENTO cantato (in Ronx) nel giorno del gloriosissimio Nome della S. C. C. R. Maestà della Imperadrice Elisabetta Cristina, per comandamento dell'Eminentiss. e Reverendiss. Sig. il Sig. Card. Alvaro Cinfuegos, Vescovo di Catania, &c. in Roma, nella Stamperia del Komarek 1724 in 4- Poesia di Tiberio Pulci. — Musica di Benedetto Micheli, Romano. Il P. Sebastiano Ruele, Carmelitano, Continuatore della Biblioteca Volante del Cinelli nella Scanzia XXII. dice d'essere stato assicurato nascondersi sotto quel nome del Pulci il Sig. Domenico Pietrosellino.
 CON AMORE CI VUOL INDUSTRIA. Opera Regia (in prosa). — in Napoli, per Michele Luigi Muzio. senz'anno. in 12 — di Ernando Tica
 CON LE BORRASCHE IN PORTO, ovvero, la Zinganetta di Madrid (in prosa). — in Napoli, per Carlo Troyse 1705 in 12 — di Ettore Calcolona, cioè, Carlo Celano.
@@ -1359,7 +1359,7 @@ CONGRATULAZIONE PASTORALE. Componimento per Musica rappresentato nel giorno.. di
 (I) CONGREGANTI. Commedia di Aristofane tradotta dal Greco in lingua comune d'Italia (in prosa): — in Venezia, per Vincenzo Valgrisi. 1545. in 8 — di Bartolommeo, e Pietro Rositini Fratelli, da Pratalboino.
 CONQUISTA DEL MINDANAO. Opera Tragica. — in Roma per Giacomo Dragondelli. 1674 in 12 - di Antonio Cotrone di Siracusa
 CONQUISTA DEL VELO D'ORO IN COLCO. Torneamento a Cavallo combattuto dal Sereniss. Ferdinando Maria Duca di ambedue le Baviere. — in Monaco, per Giovanni Jecklino. 1674 in 4 — di Domenico Gisberti, di Murano, di Venezia 
-CONQUISTA DEL VELO D'ORO. Festa Teatrale rappresentata nelle felicissime Nozze della Maesta di Eleonora Arciduchessa d'Austria, Regina di Polonia, coll'Altezza Sereniss. di Carlo Duca di Lorena, Baar, &c. l'anno 1678 — in Vienna, per Gio. Cristoforo Cosmerovio. 1678 in 8 — Poesia del Co. Niccolò Minato, Bergamasco, Poeta di S. M. Ces. — Musica di Antonio Draghi.
+CONQUISTA DEL VELO D'ORO. Festa Teatrale rappresentata nelle felicissime Nozze della Maestà di Eleonora Arciduchessa d'Austria, Regina di Polonia, coll'Altezza Sereniss. di Carlo Duca di Lorena, Baar, &c. l'anno 1678 — in Vienna, per Gio. Cristoforo Cosmerovio. 1678 in 8 — Poesia del Co. Niccolò Minato, Bergamasco, Poeta di S. M. Ces. — Musica di Antonio Draghi.
 CONRADO. Tragedia Sacra. — in Palermo, per Pietro Coppola. 1641 in 8 del P. Ortensio Scamacca, Siciliano, Gesuita.
 CONSALVO. Tragedia Sacra. in Palermo. 1633 in 12 — del P. Ortensio Scamacca, Siciliano, della Compagnia di Gesù 
 CONSIGLI DI MENECHINO. Commedia. — in Milano, per il Malatesta. 1711 in 12, con le altre Commedie, e Rime in lingua Milanese. — di Carlo Maria Maggi, Milanese.
@@ -1380,7 +1380,7 @@ CONTE UGOLINO, Tragedia. — in Roma, per il Salvioni, 1724 in 8 di Gio. Leone S
 CONTENTI D'AMORE. Commedia. in Roma, per il Landini, 1639 in 12 — di Carlo Tiberii, Romano tra gli Accademici Nascosti, il Disprezzato.
 CONTENZIONE DI M. COSTANZA, E DI BIAGIO CONTADINO, — in Siena. senza Stampatore, 1543 in 8 - d'Incerto Autore.
 CONTESA D'AMORE. Favola Pastorale, — in Venezia, per Altobello Salicato, 1601 in 8 — di Agostino Zuccolo.
-CONTESA DELL'ARIA, E DELL'ACQUA. Festa a cavallo rappresentata nelle Augustiss. Nozze delle Sacre R. Maesta dell'Imper. Leopoldo, e della Infanta Margherita delle Spagne. in Vienna, per Matteo Cosmerovio. 1667 in fogl. con fig. — di Francesco Sbarra, Lucchese.
+CONTESA DELL'ARIA, E DELL'ACQUA. Festa a cavallo rappresentata nelle Augustiss. Nozze delle Sacre R. Maestà dell'Imper. Leopoldo, e della Infanta Margherita delle Spagne. in Vienna, per Matteo Cosmerovio. 1667 in fogl. con fig. — di Francesco Sbarra, Lucchese.
 CONTESA DELLE STAGIONI. Componimento per Musica (a cinque voci) cantato nel Palazzo Apostolico la Notte del Santiss. Natale dell'anno 1698 — in Roma, nella Stamperia della Rev, Cam. Apostol. 1698 in 4 — di Carlo Capece, Romano 
 CONTESA DE' NUMI, in celebrare l'Augustiss. nome della S. R. M. di Maria Luisa Regina delle Spagne, Screnata. — in Palermo, per Agostino Epiro. 1705 in 4 — di Giuseppe Prescimonio, Siciliano 
 CONTESSA DI BARCELLONA. Commedia (in prosa). — in Napoli, per il Pace, 1691 in 12 — di Rafaele del Tauro.
@@ -1440,7 +1440,7 @@ CORTEGGIANA. Commedia (in prosa) — in Vinegia, per Francesco Marcolini. 1536 �
 CORTEGGIANA Commedia (in prosa) — in Ronciglione, senza Stampatore. 1638 in 12 — di Ambrogio Passerotta 
 CORTEGGIANA SCHERNITA. Commedia (in prosa) rappresentata in Roma l'anno 1642, con gl'Intermedi apparenti del medesimo Autore (in versi) — in Terni, per il Guerrieri. 1642 in 12 — di Giammaria Alessandrini di Lonzano.
 CORTESIA. Commedia (in prosa) - Viterbo, per Girolamo Discepolo. 1609 in 12 — di Angiolo Baldalucchi, della Pergola.
-CORTESIA DI LEONE E RUCGIERO. Commedia di Lodovico Ariosto, ridotta in Favola-scenica. in Venezia, per Giambatista Ciotti Sanese. 1600 in 12 — Poesia di Giovanni Villifranchi, Volterrano.
+CORTESIA DI LEONE E RUGGIERO. Commedia di Lodovico Ariosto, ridotta in Favola-scenica. in Venezia, per Giambatista Ciotti Sanese. 1600 in 12 — Poesia di Giovanni Villifranchi, Volterrano.
 CORTESIA DI LEONE, E DI RUGGIERO CON LA MORTE DI RODOMONTE. Soggetto cavato da Lodovico Ariosto, e ridotto in istile rappresentativo. — in Milano, per Pandolfo Malatesta. 1624 in 8. — di Silvio Fiorillo, fra' Comici detto il Capitan Matamoros.
 COSÌ VUOLE IL DESTINO. Tragicommedia. — in Genova, per il Celle. 1669 in 12 — di Clemente Girolamo Rota, d'Urbino.
 COSROE. Dramma recitato in Roma nel Teatro Ariberti nel Carnevale dell'anno 1723, e presentato alla Maestà del Re Giacomo III. Re della Gran Bretagna. — in Roma, nella Stamperia del Bernabò. 1723 in 12 - Poesia d'Incerto Autore. — Musica di Antonio Pollaroli, Veneziano.
@@ -1571,7 +1571,7 @@ DAVID UMILIATO. Azione Sacra cantata l'anno 1734 nell'Augustissima Cappella dell
 DEBBORA. Melodramma Sacro. Ancona, per Ottaviano Beltrame. 1651 in 4 coll'altre Poesie dell'Autore, del Co. Pietro Bonarelli della Rovere, d'Ancona.
 DEBBORA, PROFETESSA Guerriera. Oratorio per Musica. — in Napoli, per il Muzio, 1698 in 8 — ed ivi, per Giacinto Pittante. 1701 in 8 —. Poesia del Dott. Andrea Perrucci, di Palermo. — Musica di Giuseppe Vignola.
 DECEMBRE FIORITO. Rappresentazione Sacra per la Nascita del Redentore. — in Napoli, per Michiele Luigi Munio, senza Stampatore, ed anno. in 12 — di Baldassare Pisani, Napoletano.
-DECIMA FATICA DI ERCOLE, ovvero, la Sconfitta di Gerione in Spagna. Componimento Pastorale Eroico per Musica cantato avanti le Sagre Ces. Reali Maesta nel giorno Natalizio della Sag. Catt. Real Maestà di Carlo III. Re delle Spagne, per comando della S. Ces. R. M. di Giuseppe I. Imperadore de' Romani sempre Augusto l'anno 1710 — in Vienna, per gli Eredi Cosmeroviani. 1710 in 4 — Poesia di Giambatista Ancioni. — Musica del Fux.
+DECIMA FATICA DI ERCOLE, ovvero, la Sconfitta di Gerione in Spagna. Componimento Pastorale Eroico per Musica cantato avanti le Sagre Ces. Reali Maestà nel giorno Natalizio della Sag. Catt. Real Maestà di Carlo III. Re delle Spagne, per comando della S. Ces. R. M. di Giuseppe I. Imperadore de' Romani sempre Augusto l'anno 1710 — in Vienna, per gli Eredi Cosmeroviani. 1710 in 4 — Poesia di Giambatista Ancioni. — Musica del Fux.
 DECIO IN FOLIGNO. Melodramma Sagro alle glorie di San Feliciano Vescovo, e Martire, cantato nella Basilica Paladina la sera della sua Festa li 24 Gennajo 1697 — in Foligno, per Antonio Mariotti. 1697 in 4 — Poesia del Co. Niccolò Montemellini, Perugino, — Musica di Giuseppe Magni, Maestro di Cappella della Cattedrale.
 DECOLLAZIONE DI S. GIAMBATISTA. Rappresentazione Tragica, alli Virtuosi, e discreti Giovani del Seminario di Urbino. — in Urbino, per Bartolommeo, e Simone Ragusii Fratelli. 1598 in 12 — di Federigo Ricciuoli, di Urbino.
 DECOLLAZIONE DI S. GIAMBATISTA. Rappresentazione. — in Napoli, nella Stamperia di Giambatista Gargano, e di Lucrezio Nucci, 1614 in 12 — di Federigo Pini, della Mirandola.
@@ -1957,7 +1957,7 @@ ERMINIA. Tragedia. — in Genova, per il Pavoni. 1622 in 8 — di Gabriele Chiab
 ERMINIA. Favola Boschereccia. — in Venezia, per Bernardo Giunti, eER Giambatista Ciotti. 1610 in 12 - di Cataldo Antonio Mannarino, di Taranto.
 ERMINIA. Favola Pastorale rappresentata nel Teatro della Pace di Roma nel Carnevale dell'anno 1719in Roma, nella Stamperia di Antonio de' Rossi. 1719 in 8 — di un Accademico Quirino.
 ERMINIA. Poesia Scenica cavata dalla Gerusalemme del Tasso. — in Napoli, per Secondino Roncagliolo. 1629 in 12 — di Marc'Antonio Perillo, Napolitano, Ingelosito Accademico Incauto.
-ERMINIA SUL GIORDANO. Dramma Musicale rappresentato nel Palazzo del Sig. D. Taddeo Barberino, Prefetto di Roma, e Principe di Pelestrina. — in Roma, per Paolo Masotti. 1637 in foglio. — Poesia d Incerto Autore. — Musica di Michel Agnolo Rossi.
+ERMINIA SUL GIORDANO. Dramma Musicale rappresentato nel Palazzo del Sig. D. Taddeo Barberino, Prefetto di Roma, e Principe di Pelestrina. — in Roma, per Paolo Masotti. 1637 in foglio. — Poesia d'Incerto Autore. — Musica di Michel Agnolo Rossi.
 ERMIONA. Introduzione d'un Torneo a piedi, e a cavallo, e d'un Balletto rappresentato in Musica nella Città di Padova l'anno 1636 — in Padova, per Paolo Frambotto. 1631 in 4 — Poesia, e Prosa del March. Pio Enea Obizzi.
 ERNANDO. Tragedia Morale, data in luce da Martino la Farina. — Palermo, per Giambatista Maringo 1633 in 12 — del P. Ortensio Sca macca, Siciliano di Lentini, della Compagnia di Gesù.
 ERO, E LEANDRO. Favola Marittima, con gl'Intermedi apparenti, col Montano, Egloga, — in Roma per Guglielmo Facciotto, 1630 in 12 — di Francesco Bracciolini dalle Api, di Pistoja.
@@ -1990,7 +1990,7 @@ ESOPO IN CORTE. Commedia tradotta dal Francese (in prosa). — in Bologna, per i
 ESOPO. Tragicommedia per Musica rappresentata alle Sacre Ces. Maestà nel Carnevale dell'anno 1703 — in Vienna, per gli Eredi Cosmeroviani. 1703 in 8 — Poesia d'Incerto Autore. — Musica di Marc'Antonio Ziani, Veneziano, Maestro di Cappella di S. M. Ces.
 ESSEQUIE DEL REDENTORE. Sacra Rappresentazione (in prosa) - in Venezia, per Marco Ginammi. 1633 in 12 — di Don Francesco Belli 
 EST LOCANDA. Commedia (in prosa). — in Viterbo, per il Bilancioni. 1648 in 12 — dell'Accademico Disunito, detro l'Incapace, cioè, Florindo de Silvestris.
-ESTER. Azione Sacra per Musica cantata nell'Augustissima Cappella della Sac. Ces. Catt. R. M. di Carlo VI Imperator de' Romani sempre Augusto l'1738 — in Vienna, per Gio. Pietro Van-Ghelen. 1738 in 4 - Poesia dell'Ab. Pietro Metastasio, Romano, Poeta di Sua Maesta Cesar. e Catt. — Musica di Carlo Arrigoni.
+ESTER. Azione Sacra per Musica cantata nell'Augustissima Cappella della Sac. Ces. Catt. R. M. di Carlo VI Imperator de' Romani sempre Augusto l'1738 — in Vienna, per Gio. Pietro Van-Ghelen. 1738 in 4 - Poesia dell'Ab. Pietro Metastasio, Romano, Poeta di Sua Maestà Cesar. e Catt. — Musica di Carlo Arrigoni.
 ESTERE SALTATA. in Venezia, per il Sarzina. 1628 in 12 — di Francesco Ferrari
 ESTER, ovvero, la Caduta di Amanno. Azione Sacra per Musica. — in Mantova, per gli Osanna. 1690 in 8 — d'Incerto Autore.
 ESTER. Oratorio. — in Bologna, per il Monti 1695 in 8 — di Giacomo Antonio Bergamori, Bolognese.
@@ -2005,7 +2005,7 @@ ESTER. Tragedia. — in Verona, per Gian-Alberto Tumermanni. 1733 in 8 — di Fr
 ESTINTI FURORI. Commedia (in prosa). — in Roma, per Francesco Cavalli. 1628 in 12 — di Lodovico Moro.
 ETÀ DELL'ORO. Dramma Musicale. in Roma, per Francesco Corbelletti. 1632 in 12 — di Ottavio Tronsarelli 
 ETÀ DELL'ORO. Introduzione al Balletto della Sereniss. Sign. Principessa Margherita, e delle Sig. Dame, fatto rappresentare dal Sereniss. Sig. Duca di Parma nel suo nuovo Teatrino, in occasione de felicissimi Sponsali del Sereniss. Sign. Principe Odoardo suo Primogenito, colla Sereniss. Sign. Principessa Dorotea Sofia di Neoburgo. — in Piacenza, nella Stamperia Ducale del Bazacchi. 1690 in 4 con fig. — Poesia del Dott. Lotto Lotti, Bolognese. — Musica di Giuseppe Tosi, Bolognese.
-ETEARCO. Dramma per Musica fappresentato alle Sacre Ces. RR. Maesta nel Carnevale dell’anno 1707 — in Vienna, per gli Eredi Cosmeroviani. 1707 in 8 — Poesia di Silvio Stampiglia, Romano. — Musica di Antonio Bononcini, Bolognese. — Replicato nell'antico Teatro della Pace di Roma nell'anno 1719 — in Roma nella Stamperia di Antonio de Rossi. 1719 in 8 
+ETEARCO. Dramma per Musica fappresentato alle Sacre Ces. RR. Maestà nel Carnevale dell’anno 1707 — in Vienna, per gli Eredi Cosmeroviani. 1707 in 8 — Poesia di Silvio Stampiglia, Romano. — Musica di Antonio Bononcini, Bolognese. — Replicato nell'antico Teatro della Pace di Roma nell'anno 1719 — in Roma nella Stamperia di Antonio de Rossi. 1719 in 8 
 ETERNA È LA VENDETTA DE' LETTERATI. Dramma recitato in Bologna l'anno 1642 — d’Incerto Autore.
 ETEOCLE, E POLINICE. Dramma rappresentato l'anno 1675 in Venezia nel Teatro di S. Salvatore, — in Venezia, per Francesco Niccolini. 1675 in 12 — Poesia del Dott. Tebaldo Fattorini, di Chiozza. — Musica di D. Gio. Legrenzi, Bergamasco, Maestro di Cappella della Ducale Basilica di S. Marco di Venezia. — Da alcuni è attribuito a Lionardo Loredano, Patrizio Veneto.
 ETICA in Scena rappresentata (in prosa). - in Padova, per Giambatista Pasquati. 1671 in 4 - di Antonio dall'Acqua.
@@ -2044,7 +2044,7 @@ EUPATRA. Dramma rappresentato nel Teatro di Sant'Apollinare di Venezia l'anno 16
 EUPLIO. Tragedia Sacra. in Palermo, per il Bua, e Portanova, 1645 in 12 — del P. Ortensio Scamacca, Siciliano, della Compagni di Gesù.
 EURIDAMANTE. Dramma rappresentato nel Teatro di S. Mosè di Venezia l'anno 1654 — in Venezia per Gio. Pietro Pinelli 1654 12 — del Co. Giacomo dell'Angelo, Veneziano, tra gl'Imperfetti lo Assicurato. — Musica di Francesco Lucio, Veneziano.
 EURIDICE DI TESSAGLLA. Pastoral Regia di recita Musicale, — in Vicenza, per gli Eredi Amadii, 1658 in 12 — del Co. Pietro Paolo Bissari, Vicentino.
-EURIDICE. Favola rappresentata nello Sposalizio della Cristianissima Regina di Francia, e di Navarra. — in Firenze, per 1 Giunti. 1600 in 4ed ivi, per Cosimo Giunti, 1622 in 4 - di Ottavio Rinuccini, Fiorentino. Replicata l'anno. 1601 in Bologna. — Musica di Jacopo Peri, red avi in Casa Marifcotti. — Musica del detto Peri, di Marco Golliano, e del Maestro di Cappela di San Petronio.
+EURIDICE. Favola rappresentata nello Sposalizio della Cristianissima Regina di Francia, e di Navarra. — in Firenze, per 1 Giunti. 1600 in 4ed ivi, per Cosimo Giunti, 1622 in 4 - di Ottavio Rinuccini, Fiorentino. Replicata l'anno. 1601 in Bologna. — Musica di Jacopo Peri, red avi in Casa Mariscotti. — Musica del detto Peri, di Marco Golliano, e del Maestro di Cappela di San Petronio.
 EURILLO. Favola Pastorale. in Napoli, per Gidi Domenico Roncagliolo. 1634 in 12 — di Francesco Pisani, Napoletano.
 EURIMEDONTE E TIMOCLEONE, ovvero, i Rivali Delusi. Dramma rappresentato in un Teatrino mirabilmente lavorato con figure di cera in Casa di S. E. Abate Lahia a S. Girolamo. — in Venezia, per il Pavino. 1746 in 24 — di Girolamo Zanetti, Veneziano. — Musica di Gio. Adolfo Hasse, Sassone.
 EURIMENE. Dramma recitato nel Teatro di Sant'Apollinare di Venezia l'anno 1652 — in Venezia, per Gio. Batista Surian 1652 in 12 — di Giacomo Castoreo, Veneziano. — Dall'Autore del Libro. Glorie della Poesia, e della Musica non si crede posto in Musica benchè abbia al Prologo, e gl'Intermedj fatti per Musica.
@@ -2551,7 +2551,7 @@ GESÙ CRISTO. Rappresentazione del Nostro Signore Gesù Cristo, quando disputò 
 GESÙ FLAGELLATO. Oratorio cantato nell'Augustissima Cappella della S. C. R. M. di Giuseppe I. Imperador de' Romani, l'anno 1709 — in Vienna d'Austria, per gli Eredi Cosmeroviani. 1709 in 4 — Poesia di Pietr'Antonio Bernardoni, Bolognese. — Musica di Marc'Antonio Ziani, Veneziano, Maestro di Cappella dell'Augustiss. Imperadore; 
 GESÙ NEL PRETORIO, o sia, l'Innocenza giudicata dalla Malizia. Oratorio cantato dalle Dev. Madri Orsoline di Vienna nel giorno del Sabbato Santo al Santo Sepolcro. in Venezia, per Marino Rossetti, 1720 in 12 - Poesia del Co. Girolamo Frigimelica Roberti, Padovano. — Musica di Carlo Agostino Badia.
 GESÙ PERDUTO. Dramma (in versi di tredici sillabe rimati a due a due; e in tre Atti) — in Roma, per Francesco Gonzaga. 1709 e 1715 in 8, colle altre Opere dell'Autore. di Pier Jacopo Martello, Bolognese.
-GESÙ PRESENTATO NEL TEMPIO. Azione Sacra per Musica applicata al Santissimo Sepolcro, e cantata nell'Augustissima Cappella della Sac. Cesarea e Cattolica Real Maestà di Carlo VI Imperadore de' Romani lempre Augusto T anno 1735 — in Vienna, per Gio. Pietro Van-Ghelen 1735 in 4 — Poesia di Apostolo Zeno, Veneziano, Poeta ed Istorico di Sua Maesta Ces. e Cattolica. — Musica di Antonio Caldara, Veneziano. — Ristampata con tutte le altre Poesie Sacre Drammatiche di detto Autore, — in Venezia, per Carlo Zane, 1735 in fol.
+GESÙ PRESENTATO NEL TEMPIO. Azione Sacra per Musica applicata al Santissimo Sepolcro, e cantata nell'Augustissima Cappella della Sac. Cesarea e Cattolica Real Maestà di Carlo VI Imperadore de' Romani lempre Augusto T anno 1735 — in Vienna, per Gio. Pietro Van-Ghelen 1735 in 4 — Poesia di Apostolo Zeno, Veneziano, Poeta ed Istorico di Sua Maestà Ces. e Cattolica. — Musica di Antonio Caldara, Veneziano. — Ristampata con tutte le altre Poesie Sacre Drammatiche di detto Autore, — in Venezia, per Carlo Zane, 1735 in fol.
 GEZABELLE. Tragedia. — in Venezia, per l'Albrizzi. 1732 in 8 nel Tom. I. del Teatro, Tragico e Comico dell'Autore. — in Milano, per l'Agnelli 1744. in 12 - nel Tom. III. del Teatro Tragico dell'Autore. March. Gioseffo Gorini Corio, Milanese.
 GHIRELLO. Commedia nuova Carnevalesca (in terzine). — in Siena per Michelagnolo di Bernardino ad istanza di Giovanni di Alessandro librajo a di 23 di Decembre. 1533 in 8 — dello Stecchito della Congrega de' Rozzi, cioè, Antonio Maria di Francesco Cartajo di Siena.
 GHIRLANDA. Componimento per Musica rappresentato nel giorno 25 di Aprile dell'anno 1597 alla presenza del Serenissimo Principe di Venezia Marino Grimani. — in Venezia, senza Stampatore. 1597 in 4 — d'Incerto Autore.
@@ -2694,7 +2694,7 @@ GIUSTINO. Tragedia Sacra. — in Palermo, per Glo. Batista Maringo. 1633. in 12 
 GIUSTIZIA D'AMORE. Componimento in Musica rappresentato nel giorno 25 di Aprile dell'anno 1599 alla presenza del Serenissimo Principe di Venezia Marino Grimani, - in Venezia, per Gio. Antonio Rampazzetto. 1599 in 4 - d'Incerto Autore 
 GIUSTIZIA PLACATA. Oratorio in Musica. — in Cremona, nella Stamperia di Lorenzo Ferrari. senz'anno. in 4 — di D. Giulia Rangona Marchesa Alberti, Cremonese 
 GIUSTIZIA SPOSATA ALLA PACE NELLA CORONAZIONE DI SALOMONE. Dialogo per Musica. in Palermo, per Pietro dell'Isolan 1678 in 4 — di Vincenzo Giattini, di Palermo
-GIUSTIZIA TRIONFANTE, ovvero, Licurgo il Giusto. Opera Scenica (in prosa). — in Bologna, per il Sarti. 1678 in 12 — d Incerto Autore.
+GIUSTIZIA TRIONFANTE, ovvero, Licurgo il Giusto. Opera Scenica (in prosa). — in Bologna, per il Sarti. 1678 in 12 — d'Incerto Autore.
 GIUSTO AFFLITTO NELLA PERSONA DI GIOBBE. Azione Sacra per Musica-cantata nell'Augustissima Cappella della S. C. C. M. di Carlo VI Imperadore de' Romani sempre Augusto l'anno 1736 — in Vienna, per Pietro Van-Ghelen. 1736 in 4 — dell'Ab. Claudio Pasquini, Sanese. Musica d'Ignazio Conti. 
 GIUSTO INGANNO. Commedia (in terza rima) — in Ancona, per Francesco Salvioni. 1585 in 8 — Poesia del Destoso della Congrega degl'Insipidi di Siena, del quale non si sa il nome 
 GIUSTO PREMIO. Componimento in Musica rappresentato il giorno 2 di Decembre dell'anno 1603 alla presenza del Sereniss. Principe di Venezia Marino Grimani — in Venezia, senza Stampatore, 1603 in 4 - d'Incerto Autore. 
@@ -2967,7 +2967,7 @@ INTRICHI AMOROSI. Commedia Villesca recitata in Siena l'anno 1584 in Siena, alla
 INTRICHI D'AMORE. Commedia (in prosa) rappresentata in Caprarola. in Venezia, per Gio. Battista Ciotti. 1604 e 1613 in 12 — ivi, per Giovanni Alberti. 1612 in 12 — ivi, per Pietro Milocco, 1623 in 12 - in Viterbo, per Agostino Discepolo. 1629 in 12 — in Venezia, per Pietro Milocco. 1630 e 1630 in 12 — in Napoli, per Domenico Maccarano. senz'anno. in 12 — ed in Firenze, nella Stamperia di S. A. R. per li Tartini e Franchi, 1724 fol. nel Tom. IV. delle Opere dell'Autore. di Torquato Tasso. — Alla suddetta Commedia fece gl'Intermezzi, e la Licenza in verso Gio. Antonio Liberati, da Caprarola. — Nel fine si leggono i nomi degli Accademici di Caprarola, da quali su recitata, e poi cinque Sonetti. Il Prologo in versi è fatto da Venere ignuda.
 INTRICO. Commedia (in prosa, col Prologo in versi sdruccioli). — in Rimini, per Gio. Simbeni. 1582 in 8 — da Flamminio Guarnieri, da Osimo.
 INTRICO, E I TORTI INTRICATI. Commedia (in prosa) rappresentata dagli Accademici Intricati di Venezia l'anno 1606 — in Venezia, per Alessandro Vecchi, 1610 in 12 — di Paolo Veraldo, Romano, nell'Accademia degl'Intricati di Venezia detto lo Svegliato.
-INTRODUZIONE AL BALLETTO dell'Opera (in prosa) intitolata il Demetrio, che recitarono le Sacre Reali Maesta del Re, e Regina de'Romani, e le Serenissime Arciduchesse, — in Vienna, per Gio. Pietro Van-Ghelen. 1700. in 8 — di Pier Antonio Bernardom, Bolognese.
+INTRODUZIONE AL BALLETTO dell'Opera (in prosa) intitolata il Demetrio, che recitarono le Sacre Reali Maestà del Re, e Regina de'Romani, e le Serenissime Arciduchesse, — in Vienna, per Gio. Pietro Van-Ghelen. 1700. in 8 — di Pier Antonio Bernardom, Bolognese.
 INTRODUZIONE per Musica al Problema d'un'Accademia ragunata avanti le Sac. Ces. Reali Maestà degli Augustiss. Imperadore, ed Imperadrice, nella quale fu esaminato, se si possa ritrovare un Amore senza speranza — in Vienna, per Gio. Pietro Van-Ghelen. 1707 in 8 — di Pier'Antonio Bernardoni, Bolognese.
 INTRODUZIONE per Musica per un'altra Accademia ragunatasi avanti le medesime Ces.RR.MM. nella quale si disputò, se innamori più bella Donna, che pianga, o bella Donna, che canti — in Vienna, per Gio. Pietro Van-Ghelen, 1707 in 8 — di Pier'Antonio Bernardoni, Bolognese.
 INVENZIONE DELLA CROCE. Poema Drammatico. — in Viterbo, per Agostino Diotallevi. 1633 in 12 - di Marc'Antonio Tornioli, Sanese.
@@ -3022,7 +3022,7 @@ l'ISABELLA ovvero, la Donna più Costante. Commedia (in prosa). — in Napoli, p
 ISABELLA. Tragedia. — in Roma, per Francesco Cavallo, 1632 in 12 - ed in Firenze, per Pietro Nesti 1655 in 4 corretta, — di Girolamo Bartolammei, già Smeducci, Fiorentino. Isac. Rappresentazione. — in Venezia, per Fabio, ed Agostino Fratelli Zoppini. 1586 in 12 — in Serravalle di Venezia, per Marco Claseri. 1605 e 1606 in 12 — in Orvieto. 1607 in 8 — ed in Venezia, per Antonio Turrini. 1612 in 12 — di Luigi Grotto, Cieco d'Adria.
 ISACCIO. Tragedia. — in Venezia, per Gio. Batista Ciotti. 1615 in 12 - di Francesco Contarini, Patrizio Veneto 
 ISACCIO TIRANNO. Dramma recitato in San Gio. Grisostomo di Venazia l'anno 1710 — in Venezia, per Marino Rossetti, 1710 in 12 — Poesia di Francesco Briani, Veneziano. — Musica di Antonio Lotti, Veneziano.
-ISACCO FIGURA DEL REDENTORE. Azione Sacra per Musica applicata al Santissimo Sepolcro, e cantata nell'Augustissima Cappella della Sac. Ces. e Cattol. Real Maesta di Carlo VI Imperadore de' Romani sempre Augusto l'anno 1740 — in Vienna, per Gio. Pietro Van-ghelen. 1740 in 4 — Poesia dell'Ab. Pietro Metastasio, Romano. — Musica di Luc'Antonio Predieri. — Replicato in Venezia nell'Oratorio de RR. PP. di S. Filippo Neri il primo giorno di Gennajo 1741 — in Venezia. 1741 in 12 — Musica di Agostino Colletti, Lucchese, primo Organista della Chiesa Ducale di S. Marco
+ISACCO FIGURA DEL REDENTORE. Azione Sacra per Musica applicata al Santissimo Sepolcro, e cantata nell'Augustissima Cappella della Sac. Ces. e Cattol. Real Maestà di Carlo VI Imperadore de' Romani sempre Augusto l'anno 1740 — in Vienna, per Gio. Pietro Van-ghelen. 1740 in 4 — Poesia dell'Ab. Pietro Metastasio, Romano. — Musica di Luc'Antonio Predieri. — Replicato in Venezia nell'Oratorio de RR. PP. di S. Filippo Neri il primo giorno di Gennajo 1741 — in Venezia. 1741 in 12 — Musica di Agostino Colletti, Lucchese, primo Organista della Chiesa Ducale di S. Marco
 l'ISAURO. Opera (in prosa). — nell'Aquila, per Pietro Paolo Castrati. 1666 in 12 — di Vincenzo d'Amato 
 ISELIDE INGANNATA. Dramma rappresentato nel Teatro di Santa Margherita di Trivigi l'anno 1683 in Trivigi, per Pasqualin da Ponte. 1683 in 12 — d'Incerto Autore.
 ISICRATEA. Tragedia. — in Milano. 1724 in 8 — del March. Giuseppe Gorini Corio, Milanese.
@@ -3087,7 +3087,7 @@ LICASTA. Dramma per Musica. — in Parma, per Mario Vigna. 1664 in 8 — Poesia 
 LICEO. Favola Pastorale. — in Viterbo, per Girolamo Discepolo. 1605 in 12 — éd in Venezia, per Gio. Alberti. 1606 in 12 — di Camillo Strozzi, da Orciano.
 LICINIO IMPERADORE. Dramma rappresentato nel Teatro di San Gio. Grisostomo di Venezia l'anno 1684 in Venezia, per Francesco Niccolini. 1684 in 12 — Poesia di Matteo Noris, Veneziano. — Musica di Carlo Pallavicino, di Brescia.
 LICO, E LISSO. Favola Boschereccia. in Roma, per gli Eredi di Lodovico Grignani. 1650 in 8 — di Filadelfo Mugnos, Siciliano.
-LICORI FUCGITIVA. Favola Pastorale recitata in Bologna l'anno 1641 nel Teatro Cuastavillani dagli Accademici Riaccesi. — in Bologna, per Giacomo Monti, e Carlo Zenero. 1641 in 12 — di Bernardino Mariscotti, detto il Notturno.
+LICORI FUGGITIVA. Favola Pastorale recitata in Bologna l'anno 1641 nel Teatro Cuastavillani dagli Accademici Riaccesi. — in Bologna, per Giacomo Monti, e Carlo Zenero. 1641 in 12 — di Bernardino Mariscotti, detto il Notturno.
 LICORI, ovvero, l'Incanto d'Amore, Egloga Pastorale (divisa in Scene). in Venezia, per Evangelista Deuchino. 1623 in 12 — di Alessandro Guarimi.
 LICURGO, ovvero, il Cieco di acuta vista. Dramma recitato nel Teatro di Sant'Angiolo di Venezia l'anno 1686LI 1686 — in Venezia, per Francesco Niccolini. 1686 in 12 — Poesia di Matteo Noris, Veneziano. — Musica di Carlo Francesco Pollaroli, Veneziano 
 LIDAURA. Melodramma. — in Palermo, per Giacomo Epiro. 1685 in 12 - di Ottavio Bellia e Statella, di Palermo.
@@ -3166,7 +3166,7 @@ MAGIA D'AMORE. Favola Pastorale (parte in prosa, e parte in verso) - in Roncigli
 MAGIA DE' CARATTERI. Commedia (in prosa). — in Venezia, per Benedetto Milocco 1682 in 12 — di Giammaria Muti, Veneziano.
 MAGIA DELUSA. Dramma per Musica rappresentato nel Teatro Onigo di Treviso. l'anno 1702 — in Venezia, per Marino Rossetti, 1702 in 12 — di Aurelio Aurelj, Veneziano.
 MAGICHE ILLUSIONI. Componimento per Musica rappresentato il giorno dell'Ascensione di Nostro Signore 19 Maggio dell'anno 1605 alla presenza del Sereniss. Principe di Venezia Marino Grimani. — in Venezia, senza Stampatore. 1605 in 4 - d'Incerto Autore.
-MAGICO LEGATO. Tragicommedia Pastorale. — in Venezia, per Giovanni Alberti, 1607 in 12 — ed in Anversa per Giovanni Kecbergio. 1607 in 12 — di Pietro Benedetti, Genovese. — Dopo la Lettera Dedicatoria dell'Autore all Illustriss. ed Eccellentiss. Sig. Ambrogio Spinola, Marchese di Venaffro, Caval. dell'Ordine del Toson d'Oro, Mastro di Campo Generale, e Governatore degli eserciti per Sua Maestà Catt. ne Paesi Bassi; e dopo sedici Sonetti dell'Autore sopra varj soggetti, si legge una Lettera-Discorsiva dello stesso intorno al suo Magnifico Legato, scritta al molto Magnifico Sig. Gaspare Muzio suo Cugino.
+MAGICO LEGATO. Tragicommedia Pastorale. — in Venezia, per Giovanni Alberti, 1607 in 12 — ed in Anversa per Giovanni Kechergio. 1607 in 12 — di Pietro Benedetti, Genovese. — Dopo la Lettera Dedicatoria dell'Autore all Illustriss. ed Eccellentiss. Sig. Ambrogio Spinola, Marchese di Venaffro, Caval. dell'Ordine del Toson d'Oro, Mastro di Campo Generale, e Governatore degli eserciti per Sua Maestà Catt. ne Paesi Bassi; e dopo sedici Sonetti dell'Autore sopra varj soggetti, si legge una Lettera-Discorsiva dello stesso intorno al suo Magnifico Legato, scritta al molto Magnifico Sig. Gaspare Muzio suo Cugino.
 MAGIE AMOROSE. Dramma arricchito di Prospettive, Macchine, e Balli da Giambatista Balbi. — in Napoli, per Roberto Mollo. 1653 in 12 — di Giulio Cesare Sorrentino, Napolitano.
 MAGNANIMITÀ D'ALESSANDRO. Dramma rappresentato in Ispruch alla Maestà di Alessandra Cristina Regina di Svezia. — in Ispruch, per Michel Vagner. 1662 in 8 — di Francesco Sbarra, Luchese.
 MAGNANIMITÀ DI MARCO FABRIZIO nel giorno del gloriosissimo nome della S. C. R. M. dell'Imperador Leopoldo I. per comando della Imperadrice Eleonora. — in Vienna d'Austria, per Susanna Cristina Vedova di Matteo Cosmerovio. 1695 in 8 — Poesia di Donato Cupeda, Napolitano. — Musica di Antonio Draghi, Ferrarese. 
@@ -3178,7 +3178,7 @@ MAL MARITATO. Commedia (in prosa). — in Napoli, per Gio. Domenico Roncagliolo.
 MALMARITO. Commedia (in prosa) - in Napoli, per Ottavio Beltramo 1633 1639 in 12 — di Ottavio d'Isa, di Capua; ma veramente del Canonico Francesco Fratello di Ottavio.
 MAL PREMIATI AMORI. Tragicommedia Pastorale (in prosa). — in Orvieto, per Antonio Colaldi. 159. in 8, e 1608 in 4 — di Porzio Marj, di Trievi.
 MALANDRINA. Commedia (in prosa). — in Venezia, all'Insegna della Speranza a S. Giuliano. 1587 in 8 — di Gio. Francesco Loredano, Patrizio Veneto 
-MALATESTA. Commedia Spirituale (in tre Atti) del Miracolo della Sacra Vergine Santa Caterina da Siena, nuovamente ridotta in ottava rima, e pubblicamente rappresentata nella Contrada dove ella nacque di Fonteblanda la prima Domenica di Maggio, giorno della sua solennissima Festa 1569 — in Fiorenza, senza Stampatore. 1575 in 4 — d Incerto Autore.
+MALATESTA. Commedia Spirituale (in tre Atti) del Miracolo della Sacra Vergine Santa Caterina da Siena, nuovamente ridotta in ottava rima, e pubblicamente rappresentata nella Contrada dove ella nacque di Fonteblanda la prima Domenica di Maggio, giorno della sua solennissima Festa 1569 — in Fiorenza, senza Stampatore. 1575 in 4 — d'Incerto Autore.
 MALFATTO. Commedia rozza e amorosa, cosa piacevole da recitarsi (in terzine). — in Siena, senza Stampatore. — di varj Autori, tutti della Congrega de' Rozzi di Siena.
 MALIA D'AMORE. Commedia. — in Perugia, per gli Eredi di Alessandro Petrucci. 1618 in 12 — di Francesco Podiani, Accademico Insensato di Perugia.
 MALMOCOR. Tragichissimo Dramma per Musica rappresentato in Bologna iL Carnevale del 1728 nel Teatro Marsigli Rossi, — in Bologna, per Costantino Pisarri. 1728 in 8 — Poesia di Giuseppe Maria Buini, Bolognese, — Musica del medesimo. — E satio ad imitazione del Rutzvanscad.
@@ -3408,7 +3408,7 @@ MITRIDATE EUPATORE. Tragedia rappresentata nel Teatro di S. Gio. Grisostomo di V
 MITRIDATE RE DI PONTO VINCITOR DI SE' STESSO. Dramma cantato nel Teatro di S. Gio. Grisostomo di Venezia l'anno 1723 — in Venezia, per Marino Rossetti, 1723 in 8 — Poesia di Merindo Fesanio P. A. cioè, Benedetto Pasqualigo, Patrizio Veneto. — Musica dell'Abate Gio. Maria Cappello, Parmigiano.
 la MODA. Favola Morale (in versi sciolti) rappresentata in Musica nel Seminario di Lucca, — in Bologna, per Carlo Zenero. 1652 in 12 - in Venezia, per Niccolò Pezzana 1668 in 12 — ed in Bologna, per Gioseffo Longhi. 1673 in 12 — di Francesco Sbarra, Lucchese 
 MODESTIA ANGUSTIATA DAGLI ENCOMI DELLA VIRTU. Serenata tre voci; Applausi Musicali alle glorie impareggiabili dell'Illust. ed Eccellentiss. Sign. Antonio Lando, Luogotenente Generale della Patria del Friuli, verso il fine del suo gloriosissimo Reggimento. — in Bassano, per Gio. Antonio Remondini. 1713 in 8 — di Giorgio Masotti.
-MODESTIA VINCITRICE DEL LIBERTINACGIO. Dramma recitato l'anno 1606 in Bologna. — di Virginio Amoretti, di Bombiana nel Bolognese. 
+MODESTIA VINCITRICE DEL LIBERTINAGGIO. Dramma recitato l'anno 1606 in Bologna. — di Virginio Amoretti, di Bombiana nel Bolognese. 
 MOGLIAZZO, Framesso. Interlocutori, Nencione, Leprone, Giannone, e Meja, — senza luogo, ed anno; che però è Napoli. 1731 in 8 — di Francesco Berni, Fiorentino, E una ristampa. 
 MOCLIAZZO FATTO DA BECIO, E LISA. Commedia Rusticale, aggiuntovi un Capitolo della Gelosia. — in Siena, ad istanza di Gio. d'Alessandro, e Compagni. 1537 in 8 — ed ivi, per Callisto di Simone, ad istanza di Giovanni di Alessandro il di 10 di Gennajo 1548 in 8 - Poesia di Marcello di Giovanni Roncaglia, da Sarteano.
 MOGLIE. Commedia. — in Venezia, per Gabriel Giolito de' Ferrari, e Fratelli. 1556 in 12 - (in prosa) ed ivi, per Bernardo Giunti. 1585 in 8 (in versi) — di Gio. Maria Cecchi, Fiorentino. — La edizione del 1550 in prosa, e quella del 1585 in verso
@@ -3467,7 +3467,7 @@ MOSCHETTA. Commedia (in prosa) in Venezia, per Stefano di Alessi, alla Libreria 
 MOSÈ. Rappresentazione di Mosè, quando Iddio gli dette le Leggi in sul Monte Sinai (in ottava rima).senza luogo, Stampatore, ed anno. in 4 — di Suor Raffaella de Sergini, Badessa del Monasterio del Portico fuor di Firenze.
 MOSÈ BAMBINO ESPOSTO AL NILO. Oratorio recitato a San Tommaso Martire di Padova, per il Conzat 1728 in 12 — Poesia, e Musica d'Incerti.
 MOSÈ LIBERATO DAL NILO. Oratorio (a cinque voci). — in Venezia, per Antonio Gislon. 1712 in 4 - Poesia d'Incerto Autore. — Musica di Francesco Gasparini, Romano.
-MOSÈ PRESERVATO. Oratorio cantato nell'Augustissima Cappella della Sacra Ces. e Catt. Real Maesta di Carlo VI Imperador de' Romani sempre Augusto l'anno 1720 — in Vienna, per Gio Pietro Van-Ghelen. 1720 in 4 — Poesia d'Incerto Autore. — Musica di Francesco Conti.
+MOSÈ PRESERVATO. Oratorio cantato nell'Augustissima Cappella della Sacra Ces. e Catt. Real Maestà di Carlo VI Imperador de' Romani sempre Augusto l'anno 1720 — in Vienna, per Gio Pietro Van-Ghelen. 1720 in 4 — Poesia d'Incerto Autore. — Musica di Francesco Conti.
 MOSTIOLA, Tragedia Sacra.- in Siena, alla Loggia del Papa. 1638 in 12 - di Marzio Bartolini, d'Arcidosso, Accademico Filomato.
 MOSTRO. Componimento Musicale cantato il giorno 26 Decembre dell'anno 1596 alla presenza del Sereniss. Principe di Venezia Marino Grimani. — in Venezia, senza Stampatore. 1595 in 4 - d'Incerto Autore.
 MOTEZUMA, Imperadore del Messico. Tragedia (in prosa). — in Modona, per Bartolommeo Soliani. 1709 in 8 — del Dott. Alfonso Cavazzi, Modonese.
@@ -3703,7 +3703,7 @@ ORESTILLA. Tragedia Boschereccia. in Vicenza, per Lorenzo Lori. 1610 in 12 — d
 ORFEO. Dramma rappresentato nel Teatro di San Salvatore di Venezia l'anno 1672 — in Venezia, per FranO0 cesco 
 Nicolini. 1672 in 12 — Poesia di Aurelio Aurelj, Veneziano. Musica di Antonio Sartorio, Veneziano. — Fu replicato l'anno 1695 nel Teatro Formagliari di Bologna, ma col titolo mutato cosl: Orfeo, o sia Amore, che spesso inganna. "l'
 ORFEO. Favola. quasi tutta in ottava rima, e Mercurio annuncia la Festa, che può dirsi il Prologo. — in Vene zia, per Niccolò Zoppino, e Vincenzo Compagno: 1524 in 8, con altre Poesie Volgari dell'Autore. - di Angiolo Ambrogini detto Poliziano, per na. — Benchè nel frontespizio di un impressione antica, che va senza luoedizione, senza l'anno legga: La Rappresentazione della Fa voia d'Orfeo; nondimeno la parola Rappresentazione noi la stimiamo aoaltre Edizioni non si legge, e spezialmente in quelle di Vinegia, 1524 per Niccolò Zoppino, dove in fine si dice iita la Giostra di Giuliano de'N dici, e la Fabula d'Orfeo. Cosl la scid scritto il Sig. Can. Crescimbem ne suoi Commentarj della Volg. Poesia. Tom. I. ac. 282. dell'Edizione di Venezia. — Questo bellissimo Componimento fu ristampato molto pulitamente in Padova appresso Giuseppe Comino. 1749, e va unito al Ciclope di Euripide volgarizzato da Girolamo Zanetti. 
-ORFEO, E EURIDICE. Dramma per Musica rappresentato per comando dell'Alt. Sereniss. di Carlo Margravio di Baden, Hocberg, &c. &c. in occasione della Nascita del Primogenito Principe delle Alt. Serenifs. di Federico Principe, e Margravio Ereditario di Baden, Hocberg &c. &c. e d'Anna Carlotta Amalia Principessa, e Margravia Ereditaria di Baden, Hocberg &c. &c. nata Principessa 
+ORFEO, E EURIDICE. Dramma per Musica rappresentato per comando dell'Alt. Sereniss. di Carlo Margravio di Baden, Hocherg, &c. &c. in occasione della Nascita del Primogenito Principe delle Alt. Serenifs. di Federico Principe, e Margravio Ereditario di Baden, Hocherg &c. &c. e d'Anna Carlotta Amalia Principessa, e Margravia Ereditaria di Baden, Hocherg &c. &c. nata Principessa 
 d'Orange, Nassavia, &c. Carols Ruhe, nella Stamperia di Andrea Giacomo Maschenhaver. 1729 in 8, colla traduzione Tedesca di rincontro. — d'Incerto Autore. l'
 ORIFOLE AMANTE, ED IL FELICE ERICE. Tragicommedia. — in Venezia, per 1 Bertani, 1640 in 12 - di Valeriano Bulzè, della Terra di Aidone in Sicilia. l'
 ORIGINE DI VICENZA. Favola Boschereccia. — in Vicenza, per Francesco Grossi. 1612 in 12 — di Lodovico Aliardi, Vicentino. essere di Montepulciano nella Tosca- l'.
@@ -3745,7 +3745,7 @@ III. di Toscana, dedicata all Il. lustrissimo ed Eccellentissimo Principe di ver
 PORSILLA. Favola Boschereccia recitata l'anno 1618 in Bologna nella sala Zoppio. — in Bologna, per il Violati. 1615 in 12 — di Giovanni Capponi, Porrettano, Accademico Selvaggi Santa 
 ORSOLA. Rappresentazione (in ettava rima) di Santa Orsola Vergi
 OR 1586 ne, e Martire: — in Firenze, senza Stampatore. l'anno 1554 del Mese di Marzo, in 4 — ed ivi, ad istanza di Jacopo Chiti. 1572 in 4 — d'Incerto Autore 
-TORSOLA DI BERTAGNA. Tragedia, o Rappresentazione. — in Firenze, per Bartolommeo Sermartelli, 1585 in 8 d in Serravalle di Venezia, per Marco Claseri. 1605 in 12 - di Guidobaldo Mercati, Fiorentino. 
+TORSOLA DI BERTAGNA. Tragedia, o Rappresentazione. — in Firenze, per Bartolommeo Sermartelli, 1585 in 8 d'In Serravalle di Venezia, per Marco Claseri. 1605 in 12 - di Guidobaldo Mercati, Fiorentino. 
 TORTENSIO. Commedia (in prosa rappresentata in Rimini in presenza del Card. Gaetani. — in Palermo. per Decio Cirillo. 1641 in 12 — ed in Napoli, per Ettore Cicconio 1644 in 4, colle altre dell'Autore. — di Filippo Gaetani, Duca di Sermonetta. l'
 ORTENSIO. Commedia (in prosa). in Siena, per Luca Bonetti, 1571 in 8 — in Venezia, per gli Eredi di Bartolommeo Rubini. 1586 in 12 ivi, per Michiele Bonibello, in 12 — ivi, per Gio. Batista, e Bernardino Sessa. 1597 in 12 - ed in Siena, per Matteo Florini. 1611 in 12, con altre degli Autori medesimi. — degli-Accademici Intronati di Siena. — Isidoro Ugurgiero Azzolini nel suo Libro intitolato: Le Pompe Sanesi, Tom. I. Tit. 
 XVIII. n. 56. lasciò scritto, che l'Autore di questa Commedia fu Alessandro Piccolomini Sanese, tra gl'Intronati lo Stordito. Da una Lettera poi Ms. di Andrea Andreani, Mantovano, celebre Intagliators in rame, diretta a Scipione Bargagli, si raccoglie, che detta Commedia fu rappresentata in Siena al Gran Duca Cosmo.... che il Proscennio di essa fu mirabilmente architettato, e dipinto da Bartolommeo Neroni, Sanese, sopranominato il Riccio, Pittore, e Architetto eccellente. Detta Lettera fu veduta dal nostro Sig. Aposto
@@ -4073,7 +4073,7 @@ PORSENA. Dramma rappresentato nel Teatro di S. A. S. E. di Baviera, nel Carneval
 PORSENA. Dramma recitato nel Teatro di S. Gio. Grisotomo di Venezia l'anno 1712 — in Venezia, per Marino Rossetti. 1712 in 12 — Poesia del Co. Agostino Pioveni, Patrizio Veneto. — Musica di Antonio Lotti, Veneziano. 
 PORSENA. Opera Tragicomica recitata nel Teatro di Casale di Monferrato l'anno 1718 — in Casale, per il Salvioni. 1718. in 12 — di Carlo Giuseppe Corpacchia, di Casale, Accademico Intrepido di Ferrara
 PORSENA. Tragedia. in Roma, per Giovanni Zempel. 1731 in 8 - di Domenico Rossi, Romano
-PORSUGNACGO. (Mons. di) Intermezzi per Musica recitati nel Teatro di S. Samuele in Venezia, per Marino Rossetti 1727 in 12 — d'Incerto Autore. 
+PORSUGNAGGO. (Mons. di) Intermezzi per Musica recitati nel Teatro di S. Samuele in Venezia, per Marino Rossetti 1727 in 12 — d'Incerto Autore. 
 PORTENTO DELLA FEDE IN SANTA GIACCHELINA ROMANA. Opera Sacra. — in Napoli, per Michele Luigi Muzio. 1718 in 12 — del Dott. Filippo Itto 
 PORTENTI DELL'INDOLE GENEROSA, ovvero, Enrico III. Imperadore Duca XXXIII. di Baviera. Drama per Musica ne' Natali del LXI. suo Successore. — in Monaco, per Giovanni Jecklino, 1675 in 8 - di Domenico Gisberti, di Murano. Si trova colle altre Poesie dell'Autove nella P. II. della sua Talia. c.107.
 PORZIA. Commedia (in prosa) in Parma, senza Stampatore, ed anno. in 8 — di Giuseppe Leggiadro Galanni, di Parma. l
@@ -4089,7 +4089,7 @@ PRATICO. Commedia. — senza luogo, Stampatore, anno. in 4 - di Alfonso di Batis
 PRECEDENZA DELLE DONNE. Barriera nell'Arena di Sparta fatta dal Principe Gio. Carlo di Toscana, e da altri Cavalieri Giovanetti rappresentanti Spartani, e Spartane nella venuta a Firenze del Serenissimo Ladislao Sigismondo Principe di Polonia, e Svezia. — in Firenze, per il Cerconcelli. 1625 in 4 — di Alessandro Adimari, Fiorentino. 
 PRECIPIZIO DE' FALSI DEI AL COMPARIR DELL'ETERNO VERBO IN CARNE. Tragedia. in Roma per Guglielmo Faccioto, 1628 in 12 con altre quattro del medesimo Autore. — dell'Accademico Nascosto, cioè, del P. Tancredi Cottone, Sanese della Compagnia di Gesù.  
 PRECURSOR DI CRISTO. Tragedia Sacra. — in Catania, per Gio. Rossi. 1633 in 12 — di Giambatista Guerniere 
-PREGHIERE. Favola Pastorale in Musica rappresentata il giorno 15. di Giugno dell'anno 1596 alla presenza del Sereniss. Principe di Venezia Marino Grimani. — in Venezia. senza Stampatore. 1596 in 4 — d Incerto Autore. 
+PREGHIERE. Favola Pastorale in Musica rappresentata il giorno 15. di Giugno dell'anno 1596 alla presenza del Sereniss. Principe di Venezia Marino Grimani. — in Venezia. senza Stampatore. 1596 in 4 — d'Incerto Autore. 
 PRENCIPE ELEURINDO DI PERSIA. Opera Tragica (in prosa). — in Perugia, per gli Eredi del Bartoli, ed Angiolo Laurenzj. 1649 in 12 — di Niccolò Barbieri, detto Beltrame. 
 PRENCIPE GIARDINIERO. Opera Scenica (in prosa). — in Bracciano, per Giacomo Fei. 1664 in 12 ed in Bologna, per Giacomo Monti. senz'anno. in 12. - di Giacinto Andrea Cicognini, Fiorentino.  
 PRENCIPE SELVAGGIO. Dramma recitato nel Teatro di Sant'Angiolo di Venezia l'anno 1695 in Venezia, per il Niccolini. 1695 in 12 - Poesia dell'Ab. Francesco Silvani, Veneziano. Musica di Michel Angiolo Gasparini, Lucchese. Replicato nel Teatro Formagliari di Bologna anno 1712 — Musica del Co. Pirro Albergati, Bolognese. Replicato in Modona l'anno 1713 — in Modona, per Bartolommeo Soliani. 1713 in 8 
@@ -4405,7 +4405,7 @@ SACRO ARIONE. Oratorio per la Fe sta di Sant'Antonio di Padova. in Bologna, per 
 SACRO NATALE DI GESU. Opera Sacra. — in Bracciano, nella Stamperia di Giacomo Fei. 1666 in 8.SA di Francesco Geronimo Prenesti. 
 SACRO NATALE DI NOSTRO SIGNOR GESU CRISTO. Opera Scenica (in versi sciolti). — in Verona, per Francesco de Rossi, 1650 in 12 — di D. Giuseppe Stecco, Arciprete di San Paolo in Campo Marzo, di Verona. Si trova in fine d'un Libretto intitolato. Disputa fatta nella Chiesa di S. Paolo in Campo Marzo, Hla 
 SAGGIA EGIZZIANA. Dialogo spettante alle lodi dell'Arte Scenica. in Firenze, per Volcmar Timar, Germano. 1604 in 4 - di Giambatista Andreini, Fiorentino, Comico Geloso, detto Lelio.
-SACGIA PAZZIA DI.
+SAGGIA PAZZIA DI.
 GIUNIO BAUTo. Dramma recitato nel Teatro de'SS. Gio. e Paolo di Venezia l'anno 1698 — in Venezia, per il Niccolini. 1698 in 12 — Poesia del Dottor Lotto Lotti, Bolognese. — Musica di Giammaria Ruggeri, Veneziano. 
 SAOGIO CONFUSO DALL'IGNORANTE» Dramma recitato l'anno 1662 in Bologna nel Palazzo Volta, — di Santo Ognibene, Bolognese. 
 SAGRO SOGNO, Opera Scenica Morale Sacra (an prosa). — in Bologna, per Giosesto Longhi. 1679 in 12 - dell'Abate Giambatista Testi, d'Anghiari.
@@ -4477,7 +4477,7 @@ SCHIAVO FORTUNATO. Commedia (in prosa). — in Ronciglione, per Egidio Toselli. 
 SCHIODAZIONE DALLA CROCE, Sepoltura di Gesù Cristo Nostro Signore. Rappresentazione. — in Venezia, per Domenico Imberti, 1614 in 8. di Fra Francesco Ippoliti, di Monopoli, dell'Ordine di San Domenico.
 SCIAGURE VENTUROSE, ovvero, le Nozze di Semiramide, Dramma. in Bologna, per Carlo Zenero. 1653 in 8 — di Carlo Rota.
 SCILLA. Tragedia — in Venezia, per Gio. Griffio. 1558 in 8 — di Cesare de Cesari.
-SCIOCCAGGINI DECLI PSILLI. Trattenimento Musicale alle Augustissime Maesta Cesaree nel Carnevale dell'anno 1686 — in Vienna d'Austria per Susanna Cristina Vedova di Matteo Cosmerovio. 1686 in 4 — del Conte Niccolò Minato, Bergamasco. — Musica di Antonio Draghi, Ferrarese.
+SCIOCCAGGINI DECLI PSILLI. Trattenimento Musicale alle Augustissime Maestà Cesaree nel Carnevale dell'anno 1686 — in Vienna d'Austria per Susanna Cristina Vedova di Matteo Cosmerovio. 1686 in 4 — del Conte Niccolò Minato, Bergamasco. — Musica di Antonio Draghi, Ferrarese.
 SCIOCCHERIE DI GRADELLINO accresciute dalle astuzie di Fenocchio sturbatore di Matrimonj. — Commedia (in prosa). — in Venezia per Il Lovisa. senz'anno. in 12 — di Simon Tomadoni, cioè, Tommaso Mondini, Veneziano.
 SCIOCCO. Commedia. — in Venezia, per Giambatista Collesini. 1604 SCin 12, insieme colla Ninnetta del medesimo Autore. — ivi, appresso la Congregazione, 1605 in 12, e nuovamente data in luce da Francesco Buonafede. — in Venezia, per Gio. Batista Combi. 1628 in 12 — di Cesare Caporali, di Perugia.
 SCIOCCO DELUSO. Commedia (in prosa) rappresentata davanti l'Augustissima Cesarea Cattolica Real Padronanza da una Compagnia di Signori Paggi di Corte l'anno 1729 — in Vienna d'Austria, per Andrea Heininger, 1729 in 8 — d'Incerto Autore. — con qualché Aria di Niccolò Mattei.
@@ -4528,7 +4528,7 @@ SELEUCO. Dramma rappresentato nel Teatro di San Salvatore di Venezia l'anno 1666
 SELEUCO. Dramma rappresentato nel Teatro di Sant'Angiolo di Venezia l'anno 1725 — in Venezia, per Marino Rossetti. 1725 in 12 — Poesia di Apostolo Zeno, Veneziano, e di Pietro Pariati, di Reggio. — Musica di Giovanni Zuccari, Mantovano. — Questo Dramma, alquanto variato, ristretto e storpiato, è quello, che fu recitato l'anno 1705 nel Teatro di San Cassiano pur di Venezia col nome di Antioco.
 SELIN GRAN SIGNORE DE' TURCHI. Dramma recitato nel Teatro di Santa Margherita di Venezia l'ann. 1730 in Venezia, per Carlo Buonarngo. 1730 in 12 — Poesia d'Antonio Maria Luchini, Veneziano. — Musica di Diversi.
 SELVA INCANTATA, Commedia (in prosa). — in Roma, per il Grignam. 1626 in 12 — di Matteo Pagani, Romano. 
-SELVACGIO EROE. Tragicommedia PastoSE Pastorale recitata nel Teatro di San Gio. Grisostomo di Venezia l'anno 1707 — in Venezia, per Marino Rossetti. 1707 in 12 — del Co. Girolamo Frigimelica Roberti, Padovano. Musica di Antonio Caldara, Veneziano.
+SELVAGGIO EROE. Tragicommedia PastoSE Pastorale recitata nel Teatro di San Gio. Grisostomo di Venezia l'anno 1707 — in Venezia, per Marino Rossetti. 1707 in 12 — del Co. Girolamo Frigimelica Roberti, Padovano. Musica di Antonio Caldara, Veneziano.
 SELVE AD ONORE DISANT'ANDREA CORSINI. Dramma Musicale, — in Firenze, per il Bonardi. 1656 in 4 - di Girolamo Bartolommei, già Smeducci, Fiorentino.
 SELVE INCORONATE. Tragicommedia, — in Venezia, per Gio. Antonio Vidali. 1673 in 8 — ed ivi, per il Busetto, 1677 in 8 — di Ottonello de' Belli, di Capodistria.
 SELVESTRA. Egloga bellissima alla Martorella (in terzine). — in Siena, per Simone di Niccolò, e Giovanni di Alessandro Librajo, adi 9 Maggio 1513 e 1571 in 8 — d'Incerto Autore; ma è uno della Congrega de' Rozzi di Siena.
@@ -4550,7 +4550,7 @@ SENO DI ABRAMO. Poemetto Drammatico nella Nascita di Gesù Cristo, rappresentato
 II SENSALE. Commedia (in prosa).in Firenze, per i Giunti, 1561 in 8. ed ivi, per Valente Panizzi, e Marco Peri. 1566 in 8 — di Francesco Mercati, da Bibbiena.
 SENSUALITA DEPRESSA. Oratorio. in Messina, per Amico, ed Ivrea. 1662 in 4 — di Giambatista Romano Colonna, Messinese.
 SENTENZA DEL RE SALOMONE. — in Verona, per Giambatista Bonfadino. 1507 in 8 — d'Incerto Autore
-SERAFINA. Rappresentazione Spirituale (in prosa) dedicata alla Illustriss. ed Eccellentiss. Signora Donna Anna Colonna Barberini Principessa di Palestrina, Prefettessa di Roma. in Venezia, per Antonio Bariletti 1638 in 12 — ed in Macerata, per Girolamo Salvioni. 1642 in 12. del Dottor Gio. Angiolo-Perucci, dall'Apiro, Terra antichissima della Marca. — Da quanto si scorge ?Autore in qual tempo era Podestà della Città di Sant'Angiolo in Vado, mentre la Lettera Dedicatoria è data da quel Luogo li 26 di Febbraja 1637. In essa si leggono due Sonetti alla Santa, l'uno di D. Girolamo Zuccaro di Sant'Angiolo in Vado, e l'altro d Incerto Autore. Un Madrigate di Benedetto Ferrari all Autore, ed'un Sonetto del P. D. Leone da Napoli Monaco Cassinense allo stesso Autore s La Beata Serafina ebbe nome. al Secolo Sveva, su della Famiglia Colonna, e moglie di Alessandro Sforza Principe di Pesaro, come si ricava dall'argomento. La Penitenza fa il Prologo.
+SERAFINA. Rappresentazione Spirituale (in prosa) dedicata alla Illustriss. ed Eccellentiss. Signora Donna Anna Colonna Barberini Principessa di Palestrina, Prefettessa di Roma. in Venezia, per Antonio Bariletti 1638 in 12 — ed in Macerata, per Girolamo Salvioni. 1642 in 12. del Dottor Gio. Angiolo-Perucci, dall'Apiro, Terra antichissima della Marca. — Da quanto si scorge ?Autore in qual tempo era Podestà della Città di Sant'Angiolo in Vado, mentre la Lettera Dedicatoria è data da quel Luogo li 26 di Febbraja 1637. In essa si leggono due Sonetti alla Santa, l'uno di D. Girolamo Zuccaro di Sant'Angiolo in Vado, e l'altro d'Incerto Autore. Un Madrigate di Benedetto Ferrari all Autore, ed'un Sonetto del P. D. Leone da Napoli Monaco Cassinense allo stesso Autore s La Beata Serafina ebbe nome. al Secolo Sveva, su della Famiglia Colonna, e moglie di Alessandro Sforza Principe di Pesaro, come si ricava dall'argomento. La Penitenza fa il Prologo.
 SERE DELL'AVENTINO Invenzione 
 per vari giorni di Musica di Camera conforme alle opportunità, ed alli comandi Cesarei. — in Vienna d'Austria, per Susanna Cristina Vedova di Matteo Cosmerovio. 1694 in 4 — Poesia del Co. Niccolò Minato, Bergamasco. — Musica di Antonio Draghi, Ferrarese. — Sera prima nel di 19 Giugno 1694 Giorno Natalizio dell'Imperadore Leopoldo. Sera seconda nel di 22 Luglio 1694 Giorno del gloriosissimo Nome della Imperadrice Eleonora.
 SERENATA recitata in Musica l'anno 1716 in Murano, senz'anno, luogo, e Stampatore, in 4 — d'Incerto Autore 
@@ -5141,7 +5141,7 @@ VENDETTA AMOROSA, Commedia (in prosa). — in Viterbo, per Agostino Discepolo. 1
 VENDETTA D'AMORE. Melodramma. — in Ancona, per Marco Salvioni 1647 in 4, con altre otto dedicate dal Co. Lorenzo Figliuolo dell'Autore alla Serenissima D. Vittoria Gran Duchessa di Toscana in data di Firenze 23 Marzo 1647 — del Co. Prospero Bonarelli, d'Ancona.
 VENDETTA D'AMORE. Dramma Pastorale recitato nel Teatro Manfredini di Rovigo l'.anno 1707 — in Venezia, per Antonio Bortoli. 1707 in 12 — Poesia d'Incerto Autore. — Musica di Carlo Francesco Pollaroli, Bresciano 
 VENDETTA DEGLI AMANTI. Favola Pastorale rappresentata in Musica nel giorno 25 di Aprile dell'anno 1603 alla presenza del Sereniss. Principe di Venezia Marino Grimani. in Venezia, per il Ramparzetto. 1603 in 4 — d'Incerto Autore 
-VENDETTA DELL'ONESTA. Rappresentazione Musicale nel felicissimo dì Natalizio della Sacra Cesarea Real Maestà dell'Imperadore Leo poldo, per comando della Sac. Ces. Real Maesta delli Imperadrice Eleonora Maddalena Teresa l'anno 1687 Eee 2 NE. 807. in Vienna, per Sulanna Cristin Vedova di Matteo Cosmerovio. 1687 in 4 — Poesia di Niccolò Minato, Bergamasco. — Musica di Antonio Draghi, Ferrarese.
+VENDETTA DELL'ONESTA. Rappresentazione Musicale nel felicissimo dì Natalizio della Sacra Cesarea Real Maestà dell'Imperadore Leo poldo, per comando della Sac. Ces. Real Maestà delli Imperadrice Eleonora Maddalena Teresa l'anno 1687 Eee 2 NE. 807. in Vienna, per Sulanna Cristin Vedova di Matteo Cosmerovio. 1687 in 4 — Poesia di Niccolò Minato, Bergamasco. — Musica di Antonio Draghi, Ferrarese.
 VENDETTA DI CIRCE. Boschereccia (in prosa). — in Terni, per Tommaso Guerra, 1633 in 12 — di Rubino Orlandi, di Terni
 VENDETTA DI DESPINA.Intermezzi rappresentati nel Teatro Arciducale di Mantova il Carnevale dell'anno 1732 — in Mantova, per Alberto Pazzoni. 1732 in 12 — d'Incerto Autore
 VENDETTA DISARMATA DALL'AMORE. Dramma rappresentato nel Teatro di San Fantino di Venezia l'anno 1704 — in Venezia, per Domenico Milocco. 1704 in 12 — Poesia di Francesco Passarini, Veronese. — Musica di Girolamo Polani, Veneziano. — Replicato l'anno 1724 nel Teatro Formagliari di Bologna. — Musica di Giuseppe Maria Buini Bolognese. — Questo Dramma à lo stesso, che su recitato l'anno 1703 nella Città di Rovigo col titolo di Costanza nell'Onore.
@@ -5217,7 +5217,7 @@ VIRGINIA. Rappresentazione Amorosa. — in Firenze, per Bartolommeo Sermartelli.
 VIRGINIA. Tragedia. — in Napoli per Domenico Antonio, e Niccolò Parrino. 1725 in 8 - di Saverio Pansuti, Napoletano.
 VIRGINIA TENTATA, E CONFERMATA. Favola rappresentabile (in versi sciolti, e in cinque Atti) — in Venezia, per Antonio Pinelli. 1625 in 8 — di Niccolò da Ca Tajapiera, Canonico di Torcello.
 VIRGINIO CONSOLO. Dramma recitato nel Teatro di Sant'Angiolo di Venezia l'anno 1704 - in Venezia, per Giambatista Zuccato. 1704 in 12 - Poesia di Matteo Noris, Veneziano. Musica di Antonio Zanettini, Veneziano.
-VIRGINTTA. Dialogo, ouvero Rappresentazione, divilo in tre Atti (in prosa). — in Todi, per il Quercetani. 1632 in 12 — di Angiolo Graziosi.
+VIRGINTTA. Dialogo, ovvero Rappresentazione, divilo in tre Atti (in prosa). — in Todi, per il Quercetani. 1632 in 12 — di Angiolo Graziosi.
 VIRIATE. Dramma recitato nel Teatro di San Giangrisostomo di Venezia l'anno 1739 — in Venezia, per Marino Rossetri. 1739 in 12 — Poesia dell'Ab. Pietro Metastasio, Romano. — Musica di Gio. Adolfo Has
 Fff 
 se, detto il Sasfone. — Fu rappresentato nello stesso Teatro l'anno 1726 col titolo di Siface.
@@ -5311,7 +5311,7 @@ ZAMBERLUCCO (e la Palandrana). Intermedi Comici Musicali, rappresentati l'anno 1
 
 
 
-ZELIDA, ovyero, la Scuola delle Mogli. Dramma recitato l'anno 1696 nel Teatro Pubblico di Bologna.  in Bologna. 1696 in 12 - di Tommaso Stanzani, Bolognese.  
+ZELIDA, ovvero, la Scuola delle Mogli. Dramma recitato l'anno 1696 nel Teatro Pubblico di Bologna.  in Bologna. 1696 in 12 - di Tommaso Stanzani, Bolognese.  
 ZELO ANIMATO DAL GRAN PROFETA ELIA. — in Napoli, per  Francesco Pace. 1691 in 12 — di  Andrea Perucci, di Palermo.  
 ZELO DI FINEES, Oratorio (a quattro voci). in Venezia, per Sebastiano Coletti. 1719 in 2, con  altre Opere dell'Autore a c. 91. — del Marchese Scipione Massei, Veronese
 ZANIN DA BOLOGNA. Commedia (col nome di Frottola). - Il Crescimbeni, che la riferisce (Coment. Vol. I lib. 4. p. m. 261. della Edizione  di Venezia) dice solamente, che impressa senza l'anno della Edizione.
@@ -5342,129 +5342,129 @@ ZOHAN ZAVATTINO, E BEATRIX SOA MOGLIERE, e del Compare Galvagno ascoso sotto al 
 ZOPPO ARDITO, Commedia (in prosa). — in Viterbo, per il Diotallevi, 1645 in 12 — di Gio. Angiolo Perucci, dall'Apiro della Marca. 
 
 
-ADRIA. Dramma Marittimo (in cinque Atti), nel quale si loda la Citià 
-ABSATE. Commedia (in prosa) di Venezia. — in Bologna, per Lein Napoli, per il Mosca. 1741. lio della Volpe. 1735 in 8: Nel in 8 — di Domenico Barone, Baron Tom. III. delle Opere dell'Autore. — di Liveri, consegrata e rappresentadi Pier Jacopo Martello, Bolognese. ta alla Sacra Real Maesta di Carlo 
-ADRIANO IN SIRIA. Dramma, — in III. di Borbone Re di Napoli, e delle Venezia, per il Bettinelli. 1733 in due Sicilie &c. 4 nel Tom. I. delle Opere Drammatiche 
-ABBATACCIO. Rappresentazione (in dell'Autore divise in V. Tomi, ed in versi). — in Firenze, per il Chiti. altre Edizioni sussepuenti. — dell'Ab. 1572 in 4 — d'Incerto Autore. Pietro Metastasio, Romano 
-ABENSAIDE. Tragedia del Signor le
-ADULATORE. Commedia (in pro
-Blanc (in prosa). — in Bologna, sa). — in Venezia, per il Bettinelper il Volpe. 1738 in 8 Nel T.
-VIII. li. 1753 in 8 nel Tom. IV. delle Comdelle Opere varie di Bologna tradotte dal medie dell'Autore, — in Firenze, per Francese. — d'Incerto gli Eredi Paperini - 1753 in 8 nel 
-ACHILLE IN SCIRO. Dramma, in VeT.II. — in Bologna, per il Corcionezia, per il Bettinelli. 1737 in 4 lani, 1753 in 8 nel T. V. — ed in Nel Tom. IV. delle Opere Drammati
-Venezia, per il Bettinelli. 1754 in che dell'Autore divise in Tomi V. ed 12 nel T.II. — del Dott. Carlo Golin altre Edizioni susseguenti dello stesso. doni, Veneziano dell'Ab. Pietro Metastasio, Romano. Sant'AGATA V. M. Rappresentazione 
-ADAMO. — in Milano, per il Bor(in versi). — in Firenze, 1558 in doni. 1617 in 4 — di Giambatisa 4 — d'Incerto Autore. Andreini, Fiorentino.
-ALCIMENA PRINCIPESSA- DELL'ISOLE ADELAIDE, Dramma — in Belluno.
-FORTUNATE. Dramma per Musica. per il Tissi. 1751 in 12 — di Gio in Venezia, per Modesto Fenzo. Carlo Paganicesa Nobile di Belluno. 1750 in 12 - Poesia dell'Ab. Pie
-Nel Tom. II. de Drammi dell'Autore tro Chiari, Bresciano. — Musica di divisi in III. Tomi. Baldassarre Galuppi, Veneziano.
-ADELFI, ovvero, i due Fratelli. Com
-ALCIPPO SPARTANO. Tragedia. — in media di Terenzio tradotta (in ver
-Verona, per il Vallarsi, 1728 in 8 st) coll'altre, — in Venezia, per nel Tom. II. del Teatro Itatiano del Cristoforo Zane. 1736 in 8 — da March. Maffei. — di Ansaldo Ceba, Luisa Bergalli, Veneziana. Genovese.
-ADELFI. Commedia di Terenzio tradotta (in verso). — in Milano nel
-- ALESSANDRO. Dramma. — in Verona, per il Tumermanni. 1744 in la Stamperia Ducale, 1740 in 4 — 12 — di Paolo Rolli Poeta di S. M. ed in Venezia, per l'Occhi, 1748 Brittanica. — nel Tom. I. de Meloin 8 colle altre. — di Monsign. Nicdrammi dell'Autore. colò Fortiguerra, di Pistoja. GgB 2 ALES840dotta (in versi). — in Arezzo, per 
-ALESSANDRO NELL'INDIE. Dramma. il Bellotti. 1731 in 8 — del Cav. in Venezia, per il Bettinelli,Lbrenzo Guazzesi, Aretino. in 4. Nel Tom. II. dell'Opere dell'
-ALZIRA, Tragedia di M. Voltaire tra
-Autore divise in 5. Tomi, ed in altre dotta (in prosa). — in Firenze, nel
-Edizioni susseguenti. — dell'Ab. Piela Stamperia Imperiale. 1752 in 12 - tro Metastasio, Romano. con altre 7. Tragedie dell'Autore in 
-ALESSANDRO IN SIDONE. Tragi Tomi due, nel Tom. II. di A. M. A. commedia. — in Venezia, per il Pasquali. 1748 in 8 — Nel Tom. IX. (AMA PIU CHI MEN SICREDE. Dramma. — in Venezia, per il Voltolidelle Poesie Drammatiche dell'Autore ni. 1744 in 12, nel Tom. II. dell'divise in Tomi X. — di Apostolo Ze
-Opere dell'Autore divise in 4. Tomi. no, e Pietro Pariati. di Francesco Silvani, Veneziano.
-ALESSANDRO SEVERO. Dramma. 
-AMANTE CABALA. Intermezzo per in Venezia, per Giambatista Pasqua
-Musica. — in Venezia, per il Tali. 1744 in 8 nel Tom. VI. delle Poevernin. 1753 in 12 — del Dottor sie Drammatiche dell'Autore divise in Carlo Goldoni, Veneziano, Nel Te
-Tomi X. — di Apostolo Zeno, Vemo 
-IV, dell'Opere dell'Autore. neziano.
-ALESSANDRO IL GRANDE. Tragedia 
-AMANTEDIDAMA INCOONITA Commedia (in prosa). — in Roma, per di M. Racine tradotta (in versi). il Buagni, 1718 in 12 — d'Incerin Bologna, per Lelio dalla Volpe. to Autore, 1738 in 8 — di Antonio Chiarelli 
-AMANTE FEDELE.
-PANTALONE OMIPanvini.
-CIDA EDCIL DOTTORE DISONOl'ALFIER FANFARONE Intermezzi.RATO ONORATAMENTE. Commedia senza luogo, Stampatore, ed anno (in proso). — in Venezia, per il in 12 - Lovisa, senz'anno. in 12 — del Ca — in Belluno.
-ALFONSO. Dramma pricciolo. per il Tissi 1751 in 12 — di Gio.
-AMANTE INIMICA, ouvero, il Gran Carlo Paganicesa Nob. di Belluno. Cid delle Spagne di Pietro Cornelio Nel Tom. II. de' Drammi dell'Autore Tragedia tradotta (in prosa). — in divisi in 3. Tomi. Bologna, per il Longhi, senz'annogli 
-ALLIEVI DI VEDOVE. Commedia in 12 — d Incerto. (in prosa). — in Siena, per il Ros
-AMANTE MILTTARE, Commedia (in si. 1751 in 12, nel Tom. II. delle prosa). — m Firenze, per gli Ere
-Commedie dell'Antore, — del Dottor di Paperini. 1753 in 8, nel Tomo Jacopo Angelo Nelli, Fiorentino. V. delle Commedie dell'Autore, in PeALVIDA. Commedia (in presa). saro, per il Gavelli. 1754 in 12 - in Napoli, per il MuzI9, 1719 in nel Tom. V. delle Commedie, dell'Au12 — di Ottavio d'Isa, di Capua; tore. — del Dottor Carlo Goldoni, ma con più verità del Canonica Capova
-Veneziano n no D. Francesco d'Isa.
-AMANTE PER DISPREZZO. in Sie
-ALZIRA. Tragedia di M. Voltaire trna, per il Rossi. (1754. in 12 — di dotta (in prosa). — in Firenze, Jacopo Angiolo Nelli per il Bonducci. 1749 in 8 — del 
-AMANTE SCALTRA, E GLI SPOP. Ambrogi Gesuita.
-SI TRAVESTITI. In Siena, per 
-ALEIRA. Tragedia di M. Voltaire trail Rossi, 1754 in 12 — di Jacopo 
-AMOR E CIECO, ovyero, la Barbe
-Angiolo Nelli. ria. Commedia (in prosa). — ivi.
-AMARE, E FINGERE Commedia (in 16 - 84 in 12 — di Giambatista Ricprosa). — trasportata dallo Spagnuociardi. — lo. — in Venezia, per il Zini
-AMOR VUOL CORAGCIO. Commedia data in luce da Domenico Antonio in prosa). — in Bologna nella Stam
-Parrino, detto Florindo Comico, peria del Longhi. 1701. in 12 - AMASI. Tragedia del Sig. la Grange di Giuseppe Berneri, Romano, tradotta (in prosa). — in Bologna.
-AMOR.
-DONNA ED INGEGNO. Meper il Volpe. 1747. in 12, nel Tolodramma. — in Roma, per l'Ermo IX. dell'Opere varie tradotte dacole. 1709. in 12 — - di Arcangelo Francese in Bologna. — d'Incerto? Spagna. Cogli altri Melodrami dell'
-AMAZZONE EBREA NELLE GLORIE Rurore 
-DI GIUDITTA. — in Roma, per 
-AMOR GENEROSO. Dramma. — 1 Buagni, 1706 in 12 — di Arcan
-Venezia, per il Pasquali. 1744 in gelo Spagna. Con altri Melodrammi 8 con tutte l'altre Opere dell'Autore dell'Autored ivise in X. Tomi nel Tom. VI. di 
-AMAZZONE; DEL SETTENTRIONE Apostolo Zeno, Veneziano Dramma. — in Belluno, per il Tis
-AMOR INSUPERABILE — in Arezzo si. 1751 in 12 — di Gio. Carlo Paper il Bellotti. 1751 in 4 — dell'ganicesa, Nobile di Belluno, Nel Ab. Gio. Claudio Pasquini, Sanese. Tom. II. de Drammi del detta divise nel Tom. I. delle Opere dell'Autore in III. Tomt 
-AMOR NON HA LEGOE. Opera Sce 
-AMBIZIONE SCHERNITA — in Lucca, nica. — in Roma, per il Fer. 1667 per il Marescandoli, senz'anno a in in 12 — Pocsia di Gio. Francesco 12 — di Giuseppe Fivizzani. Savaro del Pizzo, Archidiacono di 
-AMBIZIONE DELUSA, Dramma rap
-Mileto. — Musica di diversi. presentato nel Teatro di 8. Cassiano 
-AMOR TRA' NEMICI. Opera Comica l'anno 1744 — in Venezia, 1744 in prosa), — in Venezia, per il cein 8 — Poesia d'Incerto. — Musica Pezzana. 1662 in 12 — di Giacindi Rinaldo da Capua, e di Baldasto Andrea Cicognini, Fiorentino sare Galuppi.
-VVeneziano.
-AMOR TRA NEMICI, O sia, 1 Fratelli 
-AMBLETO L. Dramma — in Venezia Amanti, e gli Amici Rivali. Tragiper il Pasquali, 1744 in 8 nel Tocommedia (in prosa). — in Brescia, mo IX. delle, Poesie Drammaticbe dell'per il Turlino. 1672 in 12 — di Autore in X. Tomi. — di Apostolo Giambatista Seriati Zeno, Veneziano.
-AMOR PRIGIONIERO.Dialog 
-AMINTA. Dramma Regio-Pastorale. Musica. — in Venezia, per il Berin Venezia, per il Pasquali, 1744 tinelli. 1745 in 4 1 dell'Ab. Pietro in 8 nel Tom. VI. delle Poesie Dram
-Metastasio, Romanor. Nel Tomo V. matiche dell'Autore divise in X. Todelle Opere Drammatiche dell'Autore dimi. di Apostolo Zeno, Veneziano. vise in V. Volumi, ed in altre Edizio
-AMMALATO IMMAGINARIO sotto la ni dello stesso. Cura del Dott. Purgon, Commedia 
-AMOR DELLA PATRIA. Dramma, (in prosa), in Venezia, per il Loin Bologna, senza Stampatore, ed visa, senz'anno in 12 — del Dottor anno, in 12 — dello Sbarra, Bonvicin Gioanelli.
-AMOR
-ANDROMACA. Dramma. — in Vene843 AMOR DELLA PATRIA. Serenata per zia, per il Pasquali. 1744 in 8 con Musica nell'esaltazione del Serenistutte l'altre Opere Drammatiche dell'simo Doge di Venezia Francesco Lo
-Autore divise in X. Tomi nel Tomo redano, — in Venezia, per il BetII. — di Apostolo Zeno, Venetinelli. 1752 in 4 — del Dott. Carziano. lo Goldoni, Veneziano.
-ANDROMACHE. Tragedia di Euripide 
-AMOR DELLA PATRIA SUPERA TUTtradotta (in versi). — in Lucca, per 
-TI GLI AMORI, o sia, l'Orazie. li Benedini. 1747 in 8 con altre Tra
-Tragedia di Pietro Cornelio tradotgedie tradotte. — da Cristoforo Guita (in prosa). — in Bologna, per il diccioni. Longhu. senz'anno. in 12 - d'Incer
-ANDROMEDA Dramma. — in Milano, per il Ravullari. 1644 in 12 - to Autore 
-AMOR IN TARANTOLA. Dramma per colle altre Poesie Drammatiche dell'Au
-Musica rappresentato in Venezia nel tore. — di Benedetto Ferrari, di Reg
-Teatro di S. Mosè. — in Venezia, gio di Modena. per Modesto Fenzo. 1750 in 12 — Poesia dell'Ab. Vaceina. — Musica 
-ANOELICA. Serenata. — in Venezia, per il Martinelli. 1733 in 4, nel Tom. III. delle Poesie Drammatiche del Latilla.
-AMORE NEL SOGNO. Tragicommedia dell'Autore divise in V. Tomi, e in (in prosa). — in Ferrara nella Stamaltre Edizioni posteriori dello stesso. in peria Camerale. 1685 in 12 — di 12 — dell'Ab. Pietro Metastasio, Ro
-Cesare Comi, Ferrarese. mano, Poeta Cesareo.
-AMORE VINCITOR DI
-SE STESSO. dell'ANGIOLO RAFFAELLO, E DITOTragicommedia (in prosa). — in 
-BIA. Rappresentazione (in ottava Bologna, per il Barbiroli. 1712 in rima). in Firenze alle Scale della Badia, senz'anno. in 4 — d'Incerto. 12 — d'Incerto.
-ANDRIA. Commedia di Terenzio tra
-ANNA BOLENA. — in Roma, per il dotta in verse. — in Venezia, per Fei. 1667 in 12 — di Gio. Francel'Occhr. 1748 in 8 colle altre. — del seo Savaro del Pizzo, Archidiacono Dott. Fabio Glissenti, Bresciano. di Mileto.
-ANDROMACA. Tragedia di Euripide 
-ANNIBALE IN BITINIA. Dramma. — tradotta (in versi) dal P. Carmeli in Lucca, per il Benedini, 1646 Min. Osserv. — in Padova, per il in 8 — di Girolamo Ringhieri. Manfrè. 1747 in 8, col Testo Greco 
-ANNIEALE CARTAGINESE. Tragedia. a rifcontro, e con tuete P altre d Enin Bologna, per Lelio dalla Volpe. 1749 in 8 — del P. Carlo Sanseveripide.
-ANDROMACA Tragedia del Sig. Rarino della Comp. di Gesù. cine tradotta (in versi): — in Firenze, per il Manni. 1726 in 8 
-ANNUNCIAZIONE DI NOSTRA DONNA. Rappresentazione, e Festai — di Autore Mauturense (cioè) Grein Firenze, ad istanza del Chisi. 1572 in 4 — d'Incerto Autore gorio Redi.
-ANDROMACA. Tragedia del Sig. Racine tradotta (in prosa). — in Ve
-ANTIGONO. Dramma. — in Venezia, per il Bettinelli. 1745 in 4 nel Tonezia, per il Lovisa. 1736 in 12 - mo V. delle Opere Drammatiche dell'colle altre del Racine tradette, in due Autore divise in V. Tomi, ed in alt Tomi. — di Luisa Bergalli, Venezianatre Edizioni susseguenti. in 12 — dell'Ab. Pietro Metastasio, Romano.
+-- SUPPLEMENTO (LUCA) --------
+
+ABBATE. Commedia (in prosa) - in Napoli, per il Mosca. 1741. in 8 — di Domenico Barone, Baron di Liveri, consegrata e rappresentata alla Sacra Real Maestà di Carlo III. di Borbone Re di Napoli, e delle due Sicilie &c. 
+
+
+ADRIA. Dramma Marittimo (in cinque Atti), nel quale si loda la Città di Venezia. — in Bologna, per Lelio della Volpe. 1735 in 8: Nel  Tom. III. delle Opere dell'Autore. —  di Pier Jacopo Martello, Bolognese. 
+ADRIANO IN SIRIA. Dramma, — in  Venezia, per il Bettinelli. 1733 in 4 nel Tom. I. delle Opere Drammatiche dell'Autore divise in V. Tomi, ed in altre Edizioni susseguenti. — dell'Ab. Pietro Metastasio, Romano 
+
+ABBATACCIO. Rappresentazione (in  versi). — in Firenze, per il Chiti.  1572 in 4 — d'Incerto Autore. 
+ABENSAIDE. Tragedia del Signor le Blanc (in prosa). — in Bologna, per il Volpe. 1738 in 8 Nel T. VIII. delle Opere varie di Bologna tradotte dal Francese. — d'Incerto
+ACHILLE IN SCIRO. Dramma, in Venezia, per il Bettinelli. 1737 in 4 Nel Tom. IV. delle Opere Drammatiche dell'Autore divise in Tomi V. ed in altre Edizioni susseguenti dello stesso. dell'Ab. Pietro Metastasio, Romano.
+
+ADULATORE. Commedia (in prosa). — in Venezia, per il Bettinelli. 1753 in 8 nel Tom. IV. delle Commedie dell'Autore, — in Firenze, per  gli Eredi Paperini - 1753 in 8 nel T.II. — in Bologna, per il Corciolani, 1753 in 8 nel T. V. — ed in Venezia, per il Bettinelli. 1754 in 12 nel T.II. — del Dott. Carlo Goldoni, Veneziano 
+AGATA V. M. Rappresentazione (in versi). — in Firenze, 1558 in 4 — d'Incerto Autore.
+ADAMO. — in Milano, per il Bordoni. 1617 in 4 — di Giambatista Andreini, Fiorentino.
+ADELAIDE, Dramma — in Belluno. per il Tissi. 1751 in 12 — di Gio. Carlo Paganicesa Nobile di Belluno. Nel Tom. II. de Drammi dell'Autore divisi in III. Tomi. 
+
+ALCIMENA PRINCIPESSA- DELL'ISOLE FORTUNATE. Dramma per Musica.  in Venezia, per Modesto Fenzo.  1750 in 12 - Poesia dell'Ab. Pietro Chiari, Bresciano. — Musica di Baldassarre Galuppi, Veneziano.
+ADELFI, ovvero, i due Fratelli. Commedia di Terenzio tradotta (in versi) coll'altre, — in Venezia, per Cristoforo Zane. 1736 in 8 — da Luisa Bergalli, Veneziana.
+ALCIPPO SPARTANO. Tragedia. — in Verona, per il Vallarsi, 1728 in 8 nel Tom. II. del Teatro Italiano del March. Maffei. — di Ansaldo Ceba,  Genovese.
+ADELFI. Commedia di Terenzio tradotta (in verso). — in Milano nella Stamperia Ducale, 1740 in 4 — ed in Venezia, per l'Occhi, 1748 in 8 colle altre. — di Monsign. Niccolò Fortiguerra, di Pistoja.
+- ALESSANDRO. Dramma. — in Verona, per il Tumermanni. 1744 in  12 — di Paolo Rolli Poeta di S. M. Brittanica. — nel Tom. I. de Melodrammi dell'Autore. 
+ 
+ 
+ dotta (in versi). — in Arezzo, per il Bellotti. 1731 in 8 — del Cav. Lorenzo Guazzesi, Aretino.
+ALESSANDRO NELL'INDIE. Dramma. in Venezia, per il Bettinelli, 1733 in 4. Nel Tom. II. dell'Opere dell'Autore divise in 5. Tomi, ed in altre Edizioni susseguenti. — dell'Ab. Pietro Metastasio, Romano. 
+
+ALZIRA, Tragedia di M. Voltaire tradotta (in prosa). — in Firenze, nella Stamperia Imperiale. 1752 in 12 - con altre 7. Tragedie dell'Autore in Tomi due, nel Tom. II. di A. M.
+ALESSANDRO IN SIDONE. Tragicommedia. — in Venezia, per il Pasquali. 1748 in 8 — Nel Tom. IX. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, e Pietro Pariati. 
+
+AMA PIU' CHI MEN SI CREDE. Dramma. — in Venezia, per il Voltolini. 1744 in 12, nel Tom. II. dell'Opere dell'Autore divise in 4. Tomi. - di Francesco Silvani, Veneziano.
+ALESSANDRO SEVERO. Dramma. in Venezia, per Giambatista Pasquali. 1744 in 8 nel Tom. VI. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, Veneneziano.
+AMANTE CABALA. Intermezzo per Musica. — in Venezia, per il Tavernin. 1753 in 12 — del Dottor  Carlo Goldoni, Veneziano, Nel Tomo IV, dell'Opere dell'Autore. 
+ALESSANDRO IL GRANDE. Tragedia di M. Racine tradotta (in versi). in Bologna, per Lelio dalla Volpe. di Antonio Chiarelli Panvini.
+
+AMANTE DI DAMA INCOGNITA Commedia (in prosa). — in Roma, per  il Buagni, 1718 in 12 — d'Incerto Autore, 1738 in 8 — d'Incerto Autore.
+AMANTE FEDELE, PANTALONE OMICIDA ED IL DOTTORE DISONORATO ONORATAMENTE. Commedia (in prosa). — in Venezia, per il Lovisa, senz'anno. in 12 — del Capriccioso.
+
+ALFIER FANFARONE Intermezzi. senza luogo, Stampatore, ed anno  in 12  
+ALFONSO. Dramma — in Belluno. per il Tissi 1751 in 12 — di Gio. Carlo Paganicesa Nob. di Belluno. Nel Tom. II. de' Drammi dell'Autore divisi in 3. Tomi. 
+AMANTE INIMICA, ovvero, il Gran Cid delle Spagne di Pietro Cornelio. Tragedia tradotta (in prosa). — in Bologna, per il Longhi, senz'anno in 12 — d'Incerto.
+ALLIEVI DI VEDOVE. Commedia (in prosa). — in Siena, per il Rossi. 1751 in 12, nel Tom. II. delle Commedie dell'Antore, — del Dottor Jacopo Angelo Nelli, Fiorentino. 
+AMANTE MILITARE, Commedia (in  prosa). — in Firenze, per gli Eredi Paperini. 1753 in 8, nel Tomo V. delle Commedie dell'Autore, in Pesaro, per il Gavelli. 1754 in 12 nel Tom. V. delle Commedie, dell'Autore. — del Dottor Carlo Goldoni, Veneziano
+ALVIDA. Commedia (in prosa).  - in Napoli, per il Muzio, 1719 in 12 — di Ottavio d'Isa, di Capua;  ma con più verità del Canonico Capovano D. Francesco d'Isa.
+AMANTE PER DISPREZZO. in Siena, per il Rossi. (1754. in 12 — di Jacopo Angiolo Nelli
+ALZIRA. Tragedia di M. Voltaire tradotta (in prosa). — in Firenze,  per il Bonducci. 1749 in 8 — del P. Ambrogi Gesuita.
+AMANTE SCALTRA, E GLI SPOSI TRAVESTITI. In Siena, per il Rossi, 1754 in 12 — di Jacopo Angiolo Nelli. 
+
+
+AMOR E' CIECO, ovvero, la Barberia. Commedia (in prosa). — ivi.  1684 in 12 — di Giambatista Ricciardi. — 
+AMARE, E FINGERE Commedia (in 16 -prosa). — trasportata dallo Spagnuolo. — in Venezia, per il Zini 1675 data in luce da Domenico Antonio Parrino, detto Florindo Comico
+AMOR VUOL CORAGGIO. Commedia (in prosa). — in Bologna nella Stamperia del Longhi. 1701. in 12 - di Giuseppe Berneri, Romano,
+AMASI. Tragedia del Sig. la Grange  tradotta (in prosa). — in Bologna. per il Volpe. 1747. in 12, nel Tomo IX. dell'Opere varie tradotte dal Francese in Bologna. — d'Incerto
+AMOR, DONNA ED INGEGNO. Melodramma. — in Roma, per l'Ercole. 1709. in 12 - di Arcangelo  Spagna. Cogli altri Melodrami dell'Autore
+AMAZZONE EBREA NELLE GLORIE  DI GIUDITTA. — in Roma, per Buagni, 1706 in 12 — di Arcangelo Spagna. Con altri Melodrammi dell'Autore
+AMOR GENEROSO. Dramma. — in Venezia, per il Pasquali. 1744 in  8 con tutte l'altre Opere dell'Autore divise in X. Tomi nel Tom. VI. di Apostolo Zeno, Veneziano 
+AMAZZONE DEL SETTENTRIONE Dramma. — in Belluno, per il Tissi. 1751 in 12 — di Gio. Carlo Paganicesa, Nobile di Belluno, Nel Tom. II. de Drammi del detta divise in III. Tomi
+AMOR INSUPERABILE — in Arezzo per il Bellotti. 1751 in 4 — dell'Ab. Gio. Claudio Pasquini, Sanese.  nel Tom. I. delle Opere dell'Autore 
+AMOR NON HA LEGGE. Opera Scenica. — in Roma, per il Fei. 1667. Poesia di Gio. Francesco Savaro del Pizzo, Archidiacono di  Mileto. — Musica di diversi. 
+AMBIZIONE SCHERNITA — in Lucca,  per il Marescandoli, senz'anno. in 12 — di Giuseppe Fivizzani. 
+
+
+AMBIZIONE DELUSA, Dramma rappresentato nel Teatro di S. Cassiano l'anno 1744 — in Venezia, 1744 in 8 — Poesia d'Incerto. — Musica di Rinaldo da Capua, e di Baldassare Galuppi, Veneziano.
+AMOR TRA' NEMICI. Opera Comica (in prosa), — in Venezia, per il Pezzana. 1662 in 12 — di Giacinto Andrea Cicognini, Fiorentino 
+AMOR TRA NEMICI, O sia, i Fratelli Amanti, e gli Amici Rivali. Tragicommedia (in prosa). — in Brescia, per il Turlino. 1672 in 12 — di Giambatista Seriati 
+AMBLETO Dramma — in Venezia per il Pasquali, 1744 in 8 nel Tomo IX. delle, Poesie Drammatiche dell'Autore in X. Tomi. — di Apostolo Zeno, Veneziano.
+AMOR PRIGIONIERO.Dialogo per Musica - in Venezia, per il Bertinelli. 1745 in 4 - dell'Ab. Pietro Metastasio, Romano. Nel Tomo V. delle Opere Drammatiche dell'Autore divise in V. Volumi, ed in altre Edizioni dello stesso. 
+AMINTA. Dramma Regio-Pastorale. — in Venezia, per il Pasquali, 1744 in 8 nel Tom. VI. delle Poesie Drammatiche dell'Autore divise in X. Tomi. di Apostolo Zeno, Veneziano. 
+
+ 
+AMMALATO IMMAGINARIO sotto la Cura del Dott. Purgon, Commedia (in prosa), in Venezia, per il Lovisa, senz'anno in 12 — del Dottor Bonvicin Gioanelli.
+AMOR DELLA PATRIA. Dramma, in Bologna, senza Stampatore, ed anno, in 12 — dello Sbarra, 
+AMOR DELLA PATRIA. Serenata per Musica nell'esaltazione del Serenissimo Doge di Venezia Francesco Loredano, — in Venezia, per il Bettinelli. 1752 in 4 — del Dott. Carlo Goldoni, Veneziano.
+ANDROMACA. Dramma. — in Venezia, per il Pasquali. 1744 in 8 con tutte l'altre Opere Drammatiche dell'Autore divise in X. Tomi nel Tomo II. — di Apostolo Zeno, Veneziano. 
+ANDROMACHE. Tragedia di Euripide tradotta (in versi). — in Lucca, per li Benedini. 1747 in 8 con altre Tragedie tradotte. — da Cristoforo Guidiccioni.
+AMOR DELLA PATRIA SUPERA TUTTI GLI AMORI, o sia, l'Orazio. Tragedia di Pietro Cornelio tradotta (in prosa). — in Bologna, per il Longhi. senz'anno. in 12 - d'Incerto Autore 
+ANDROMEDA Dramma. — in Milano, per il Ravullari. 1644 in 12 - colle altre Poesie Drammatiche dell'Autore. — di Benedetto Ferrari, di Reggio di Modena.
+AMOR IN TARANTOLA. Dramma per Musica rappresentato in Venezia nel Teatro di S. Mosè. — in Venezia,  per Modesto Fenzo. 1750 in 12 — Poesia dell'Ab. Vaccina. — Musica del Latilla.
+ANGELICA. Serenata. — in Venezia, per il Martinelli. 1733 in 4, nel Tom. III. delle Poesie Drammatiche dell'Autore divise in V. Tomi, e in altre Edizioni posteriori dello stesso. in 12 — dell'Ab. Pietro Metastasio, Romano, Poeta Cesareo.
+AMORE NEL SOGNO. Tragicommedia (in prosa). — in Ferrara nella Stamperia Camerale. 1685 in 12 — di Cesare Comi, Ferrarese. 
+AMORE VINCITOR DI SE STESSO. Tragicommedia (in prosa). — in Bologna, per il Barbiroli. 1712 in 12 — d'Incerto.
+ANGIOLO RAFFAELLO, E DI TOBIA. Rappresentazione (in ottava rima). in Firenze alle Scale della Badia, senz'anno. in 4 — d'Incerto. 
+ANDRIA. Commedia di Terenzio tradotta in verse. — in Venezia, per l'Occhi. 1748 in 8 colle altre. — del Dott. Fabio Glissenti, Bresciano.
+ANNA BOLENA. — in Roma, per il Fei. 1667 in 12 — di Gio. Francesco Savaro del Pizzo, Archidiacono  di Mileto.
+ANDROMACA. Tragedia di Euripide tradotta (in versi) dal P. Carmeli Min. Osserv. — in Padova, per il Manfrè. 1747 in 8, col Testo Greco a riscontro, e con tutte l'altre d Euripide.
+ANNIBALE IN BITINIA. Dramma. —  in Lucca, per il Benedini, 1646 in 8 — di Girolamo Ringhieri. 
+ANNIBALE CARTAGINESE. Tragedia. in Bologna, per Lelio dalla Volpe. 1749 in 8 — del P. Carlo Sanseverino della Comp. di Gesù.
+ANDROMACA Tragedia del Sig. Racine tradotta (in versi): — in Firenze, per il Manni. 1726 in 8 di Autore Mauturense (cioè) Gregorio Redi.
+ANNUNCIAZIONE DI NOSTRA DONNA. Rappresentazione, e Festa — in Firenze, ad istanza del Chisi. 1572 in 4 — d'Incerto Autore 
+ANDROMACA. Tragedia del Sig. Racine tradotta (in prosa). — in Venezia, per il Lovisa. 1736 in 12 -  Tomi. — di Luisa Bergalli, Veneziana
+ANTIGONO. Dramma. — in Venezia, per il Bettinelli. 1745 in 4 nel Tomo V. delle Opere Drammatiche dell'colle altre del Racine tradette, in due Autore divise in V. Tomi, ed in altre Edizioni susseguenti. in 12 — dell'Ab. Pietro Metastasio, Romano.
 ANTIOCO. Tragedia di Tommaso Cornelio tradotta (in prosa). — in Bologna, per il Longhi, senz'anno. in 12 — d'Incerto.
-ANTIOCO. Dramma. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo X. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, Veneziano, e dell'Ab. Pietro Pariati, di Reggio. Sant'
-ANTONIO ABATE. Rappresentazione (in ottava rima). — in Firenze, per il Baleni. 1589 in 4 Incerto Autore.
-S. APOLLONIA VERGINE, E MARTIRE. Rappresentazione (in ottava rima), — in Siena, alla Loggia del Papa. 1614 in 4 — d'Incerto.
+ANTIOCO. Dramma. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo X. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, Veneziano, e dell'Ab. Pietro Pariati, di Reggio. 
+ANTONIO ABATE. Rappresentazione (in ottava rima). — in Firenze, per il Baleni. 1589 in 4 - d'Incerto Autore.
+APOLLONIA VERGINE, E MARTIRE. Rappresentazione (in ottava rima), — in Siena, alla Loggia del Papa. 1614 in 4 — d'Incerto.
 ARCADIA IN BRENTA. Dramma Giocoso. — in Venezia, senza Stampatore. 1749 in 12 — ivi, per il Tavernin. 1753 in 12 — del Dottor Carlo Goldoni, Veneziano. Nel Tomo II. dell'Opere Giocose dell'Autore divise in IV. Tomi.
-ARCIFANFANO RE DEI MATTI. Dramma Giocoso. — in Venezia, senza Stampatore, 1750 e 1751 in 12 — Poesia del Dott. Garlo Goldoni, Veneziano. — Musica di Baldassarre Galuppi, Veneziano. — Nel Tomo I. delle Opere Giocose dell'Autore stampate dal Tavernin in Venezia 1750 in 12 - in IV. Tomi. A RE MALVAGIO CONSIGLIER PECGIORE. Farsa. — in Bologna, per il Volpe. 1733 in 8 — di Pier Jacopo Martello, Bolognese. Sta nel Tomo V. dell'Opere dell'Autore.
+ARCIFANFANO RE DEI MATTI. Dramma Giocoso. — in Venezia, senza Stampatore, 1750 e 1751 in 12 — Poesia del Dott. Garlo Goldoni, Veneziano. — Musica di Baldassarre Galuppi, Veneziano. — Nel Tomo I. delle Opere Giocose dell'Autore stampate dal Tavernin in Venezia 1750 in 12 - in IV. Tomi. 
+A RE MALVAGIO CONSIGLIER PEGGIORE. Farsa. — in Bologna, per il Volpe. 1733 in 8 — di Pier Jacopo Martello, Bolognese. Sta nel Tomo V. dell'Opere dell'Autore.
 ARGIA. Dramma Musicale. — in Venezia, per il Niccolini. 1669 in 12 - Poesia di Apollonio Apolloni, Veneziano, Cav. — Musica del Cesti.
-ARIANNA. Ditirambica. — in Bolo846 gna, per Lelio dalla Volpe. 1723 in 8 nell'Opere dell'Autore, — di Pier Jacopo Martello, Bolognese.
-ARTANNA IN NASSO. Dramma. — in Verona, per il Tumermanni. 1744 in 12 — di Paolo Rolli, Poeta di S. M. Brittanica. Nel Tom. I. de Melodrammi dell'Autore.
-ARIOSTISTA ED IL TASSISTA, Commedia (in versi). — in Roveredo. 1738 in 8 - di Giulio Cesare Beccelli, Veronese.
+ARIANNA. Ditirambica. — in Bologna, per Lelio dalla Volpe. 1723 in 8 nell'Opere dell'Autore, — di Pier Jacopo Martello, Bolognese.
+ARIANNA IN NASSO. Dramma. — in Verona, per il Tumermanni. 1744 in 12 — di Paolo Rolli, Poeta di S. M. Brittanica. Nel Tom. I. de Melodrammi dell'Autore.
+ARIOSTISTA, ED IL TASSISTA, Commedia (in versi). — in Roveredo. 1738 in 8 - di Giulio Cesare Beccelli, Veronese.
 ARISTIDE. Dramma. — in Venezia, per il Tavernin. 1753 in 12 - nel Tom. III. dell'Opere Giocose dell'Autore divise in IV. Tomi. — del Dott. Carlo Goldoni, Veneziano 
 ARLECHINO SALVATICO. Commedia tradotta dal Francese. — in Firenze, per il Bonducci, 1754 in 8 di M.
 ARMIDA. Dramma in Milano per il Ramellati. 1644 in 12 - colle altre Poesie Drammatiche dell'Autore. di Benedetto Ferrari, di Reggio di Modena 
-ARMIDA. Dramma per Musica rappresentato nel Teatro di Sant'Angiolo di Venezia l'anno 1747 Venezia, 1747 in 12 — Poesia di Bartolommeo Vitturi, Veneziano Musica di Ferdinando Bertoni, Veron.
+ARMIDA. Dramma per Musica rappresentato nel Teatro di Sant'Angiolo di Venezia l'anno 1747 Venezia, 1747 in 12 — Poesia di Bartolommeo Vitturi, Veneziano. Musica di Ferdinando Bertoni, Veronese.
 ARMIDA ABBANDONATA. Dramma. in Venezia, per il Voltolini, 1744 in 12 - nel Tom. I. delle Opere Drammatiche dell'Autore divise in IV. Tomi. — dell'Ab. Francesco Silvani, Veneziano.
 ARMIDA AL CAMPO. Dramma in Venezia, per il Voltolini. 1744 in 12 - nel Tom. I. delle Opere Drammatiche dell'Autore divise in IV. Tomi. dell'Ab. Francesco Silvani, Venez.
-ARMINIO. Dramma. — in Arezzo per il Bellotti. 1751 in 4 - dell'Ab. Gio. Claudio Pasquini, Sanese. nel847 in Venezia, colla data di Firenze, nel Tom. I. delle Opere dell'Autore nel Tom. II. del Teatro Comico Fio
-ARMINIO. Tragedia tradotta dal Franrentino, diviso in sei Tomi. — di cese (in prosa). — in Bologna, per Giammaria Cecchi, Fiorentino. il Longlu, senz'anno in 12 — d'InASTARTO. Dramma. — in Venezia, certo. per il Pasquali. 1741 in 8 nel-ToARRENIONE. Dramma. — in Venemo X. delle Poesie Drammatiche dell. zia, per il Voltolini. 1744 nel To
-Autore divise in X. Tomi. — di A pomo II. delle Opere Drammatiche dell'stolo Zeno, Veneziano, e dell'Ab. Autore divise in IV. Tomi. — dell'Ab. Pietro Pariati, di Reggio. Francesco Silvani, Veneziano.
-ASTREA PLACATA, ovvero, la Feli
-ARTASERSE. Dramma. — in Venezia, cità della Terra. — in Venezia, per per il Pasquali. 1744 in 8 nel Toil Bettinelli, 1745 in 4 — dell'Ab. mo X. delle Poesie Drammatiche dell'Pietro Metastasio, Romano, Poeta Autore divise in Tomi X. — di Apo
-Ces. Nel Tom. V. dell'Opere Dramstolo Zeno, Veneziano, e di Pietro matiche dell'Autore diviso in V. Volu
-Pariati, di Reggio mi, e in ultrs Edizioni dello stesso in 12 - ARTASERSE. Dramma. — in Venezia. posteriori. per il Bettinelli, 1733 in 4 nel To ATENAIDE, Dramma. — in Venezia, mo I. delle Opere Drammatiche dell'Auper il Pasquali. 1744 in 8 nel Totore divise in V. Tomi, ed in altre mo I. delle Poesie Drammatiche dell'Edizioni susseguenti. — dell'Ab. Pie
-Autore divise in Tomi X. — di Apotro Metastasio, Romano. stolo Zeno, Veneziano, Poeta, ed 
-ARZIGOGOLO. Commedia (in prosa). Istotico di Sua Maelta Cesares e in Firenze, (ma è Venezia) 1750 Cattolica. in 8 nella Raccolta di varie antiche 
+ARMINIO. Dramma. — in Arezzo per il Bellotti. 1751 in 4 - dell'Ab. Gio. Claudio Pasquini, Sanese. nel Tom. I. delle Opere dell'Autore
+
+
+847 in Venezia, colla data di Firenze, nel Tom. II. del Teatro Comico Fiorentino, diviso in sei Tomi. — di Giammaria Cecchi, Fiorentino.
+ARMINIO. Tragedia tradotta dal Francese (in prosa). — in Bologna, per  il Longhi, senz'anno in 12 — d'Incerto. 
+ASTARTO. Dramma. — in Venezia, per il Pasquali. 1741 in 8 nel Tomo X. delle Poesie Drammatiche dell'Autore divise in X. Tomi. — di Apostolo Zeno, Veneziano, e dell'Ab. Pietro Pariati, di Reggio.
+
+ARRENIONE. Dramma. — in Venezia, per il Voltolini. 1744 nel Tomo II. delle Opere Drammatiche dell'Autore divise in IV. Tomi. — dell'Ab.  Francesco Silvani, Veneziano.
+
+ARTASERSE. Dramma. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo X. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, Veneziano, e di Pietro Pariati, di Reggio 
+
+ASTREA PLACATA, ovvero, la Felicità della Terra. — in Venezia, per il Bettinelli, 1745 in 4 — dell'Ab. Pietro Metastasio, Romano, Poeta Ces. Nel Tom. V. dell'Opere Drammatiche dell'Autore diviso in V. Volumi, e in altre Edizioni dello stesso in 12 posteriori. 
+ARTASERSE. Dramma. — in Venezia.  per il Bettinelli, 1733 in 4 nel Tomo I. delle Opere Drammatiche dell'Autore divise in V. Tomi, ed in altre Edizioni susseguenti. — dell'Ab. Pietro Metastasio, Romano. 
+ATENAIDE, Dramma. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo I. delle Poesie Drammatiche dell'Autore divise in Tomi X. — di Apostolo Zeno, Veneziano, Poeta, ed Istorico di Sua Maelta Cesarea e Cattolica. 
+ARZIGOGOLO. Commedia (in prosa). in Firenze, (ma è Venezia) 1750 in 8 nella Raccolta di varie antiche 
 ATREO, E TIESTE, Ttagedia del Sig. Commedis in sei Tomi intitolata Teadi Crebillon tradotta (in prosa). — tro Comico Fiorentino nel Tom. IV. in Bologna, per il Volpe. 1750 ASILO D'AMORE. Festa Teatrole. — in 12 — Nel Tomo X. delle Opere vain Venezia, per il Bettinelli. 173. rie tradotte in Bologna. — d'Incerto in 4 nel Tom. II. delle Opere Dram
 Autore. mariche dell'Autore. — dell'Ab. Pie
 ATTALIA, Tragedia del Racine tratro Metastasio, Romano, Poeta Cedotta da D. Bonifazio Collina Ch. sareo. Reg. Som. — in Venezia, per 
@@ -5514,7 +5514,7 @@ VI. Tomi. — del Margnini, Fiorentino. chese Gorini Cotio, Milanese.
 CADUTA DI GERICO. — ir Arezzo, Al BUGIARDO Commedia di Pietro per il Bellotti. 1751 in 4 — dell'Cornelio tradotta (in prosa), — in Ab. Gio. Claudio Pasquini, Sanese, Firenze, per il Viviani, 1749 in 8 nel Tomo I. delle Opere dell'Autore. — d'Incerto.
 CAJO FABBRIZIO. Dramma. — in 
 BUOIARDO, Commedia (in prosa). Venezia, per il Pasquali, 1744 in in Firenze, per gli Eredi Paperini, 8. nel Tomo I. delle Poesie Dramma1753 in 8 nel Tome I. delle Commetiche dell'Autore divise in X. Tomi. die dell'Autore, — in Pesaro, per il di Apostolo Zeno, Veneziano, Poe
-Gavelli. 1753 in 12 — nel To. I. — 1a ed Istorico di Sua Maesta Cesain Venezia, per il Bettinelli, 1753 rea, e Catt. in 8 nel Tomo IV. — in Bologna.
+Gavelli. 1753 in 12 — nel To. I. — 1a ed Istorico di Sua Maestà Cesain Venezia, per il Bettinelli, 1753 rea, e Catt. in 8 nel Tomo IV. — in Bologna.
 CAJO MARZIO CORIOLANO. Dramper gli Eredi Pisarri. 1753 in ma, — in Venezia, per l'Albrizzinel 1 om.IV. — in Venezia, per il 1751 in 12 — nel Tomo I. de Dram
 Bettinelli in 12 - nel Tom. I. — del mi delk Autore. — del Co. Gorini Co
 Dott. Carlo Goldoni, Veneziano. rio, Milanefe. 
@@ -6408,7 +6408,7 @@ VERo AMORE NON CURA INTEseppe Scolari.
 RESSE. Commedia (in prosa). 
 VENCESLAO. Dramma. — in Venein Firenze, per il Mouke, 1734 zia, per il Pasquali. 1744 in 8 in 12 - nel Tomo II. delle Commedie nel Tomo V. delle Poesie Drammatidell'Autore. — La stessa (in versi). che dell'Autore divise in X. Tomi,ivi, per il detto. 1734 in 12 - nel di Apostolo Zeno, Veneziano, Tomo VII. delle Commedie dell'Autola 
 VERA NOBILTA. Tragedia tratta re. — di Giambatista Fagiuoli, Fiodal Don Sancio di Pietro Cornelio rentino. (in prosa). — in Bologna, per il 
-VERO OMACGIO. Serenata cantata in Vienna, per divertimento della Longhi, senz'anno, in 12 — d'Incerto. Imperial Corte, ed ivi stampata. — per il Mouke. 1734 in 12 - nel Toin Venezia, per il Bettinelli. 1745 mo II. delle Commedie dell'Autore, in 4 — nel Tomo V, delle Opere dell'di Giambatista Fagiuoli, Fiorentino. Autore / — ivi, per il detto, 1752 in 12 - nel Tom. V. ed in varie altre E-
+VERO OMAGGIO. Serenata cantata in Vienna, per divertimento della Longhi, senz'anno, in 12 — d'Incerto. Imperial Corte, ed ivi stampata. — per il Mouke. 1734 in 12 - nel Toin Venezia, per il Bettinelli. 1745 mo II. delle Commedie dell'Autore, in 4 — nel Tomo V, delle Opere dell'di Giambatista Fagiuoli, Fiorentino. Autore / — ivi, per il detto, 1752 in 12 - nel Tom. V. ed in varie altre E-
 VIRTUOSE RIDICOLE. Dramma Giocoso per Musica, rappresentato diziont. — dell'Ab. Pietro Metastain Venezia nel Teatro di San Sasio, Romano, Poeta Cesareo, muello l'anno 1752 — in Venezia.
 VICENDE D'AMOR, E DI FORTUper Modesto Fenzo, 1752 in 12 - NA. Opera (in prosa) tradotta dalivi, per il Tavernin. 1753 in 12 - lo Spagnuplo. — in Modena, per il nel Tomo II. delle Opere Giocose dell'Dogni, senz'anno, in 12 — senza 
 AAutore. — di Polisseno Fegejo Panome di Traduttore, il qual e pestor Arcade, cioè, del Dott. Carlo 1d Giambatista Toschi. Goldoni, Veneziano.
