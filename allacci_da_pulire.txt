@@ -4556,7 +4556,7 @@ per vari giorni di Musica di Camera conforme alle opportunità, ed alli comandi 
 SERENATA recitata in Musica l'anno 1716 in Murano, senz'anno, luogo, e Stampatore, in 4 — d'Incerto Autore 
 SERENATA recitata nel Giorno Natalizio della Serenissima Carlotta Aglae d'Orleans, Principessa di Modena l'anno 1720 — in Modena, per Bartolommeo Soliani. 1720 in 8 — d'Incerto Autore.
 SERENATA (a quattro voci), consacrata a S. E. la Signora Procuratessa Lucrezia Basadonna Mocenigo. — in Venezia, per il Zuccato, 1078 in 4 — La Dedicatoria è di Orazio Lancelloti, che forse è il Poeta.
-SERENATA all'Antro di Betelemme nella notte Natalizia del Redentore, cantata nel Palazzo Apostolico la vigilia del Santo Natale. — in Bologna, per il Longhi, 1694 in 12, colle altre Pocsie dell'Autore. — Poesia di Francesco de Lemene, Lodigiano.
+SERENATA all'Antro di Betelemme nella notte Natalizia del Redentore, cantata nel Palazzo Apostolico la vigilia del Santo Natale. — in Bologna, per il Longhi, 1694 in 12, colle altre Poesie dell'Autore. — Poesia di Francesco de Lemene, Lodigiano.
 SERENATA in Musica (a cinque voci fatta recitare da N. N. di Treviso nella partenza di Sua Ecc. il Sign. Pietro Maffetti dal suo gloriosissimo Reggimento di Podestà, e Capitanio, in Treviso, per Gasparo Pianta. 1705 in 4 — Poesia di Autore Incerto.
 SERENATA in Musica (a quattro voci) SErecitata in Venezia. — senz'anno, luogo, e Stampatore, in 4 — d'Autore Incerto.
 SERENATA per Musica (a quattro voci) rappresentata nell'Almo Reale Collegio Ancarano di Bologna in occasione delle Reali felicissime Nozze degli Augustissimi Monarchi delle due Sicilie &c. Padroni, e Protettori del mentovato Collegio. in Bologna, nella Stamperia di Lelio dalla Volpe. 1738 in 4 - Poesia del Dott. Giuseppe Manfredi, Bolognese. — Musica di Angiolo Caroli Accademico Filarmonico. 
@@ -5363,7 +5363,7 @@ ALCIMENA PRINCIPESSA- DELL'ISOLE FORTUNATE. Dramma per Musica. in Venezia, per M
 ADELFI, ovvero, i due Fratelli. Commedia di Terenzio tradotta (in versi) coll'altre, — in Venezia, per Cristoforo Zane. 1736 in 8 — da Luisa Bergalli, Veneziana.
 ALCIPPO SPARTANO. Tragedia. — in Verona, per il Vallarsi, 1728 in 8 nel Tom. II. del Teatro Italiano del March. Maffei. — di Ansaldo Ceba,  Genovese.
 ADELFI. Commedia di Terenzio tradotta (in verso). — in Milano nella Stamperia Ducale, 1740 in 4 — ed in Venezia, per l'Occhi, 1748 in 8 colle altre. — di Monsign. Niccolò Fortiguerra, di Pistoja.
-- ALESSANDRO. Dramma. — in Verona, per il Tumermanni. 1744 in 12 — di Paolo Rolli Poeta di S. M. Brittanica. — nel Tom. I. de Melodrammi dell'Autore. 
+ALESSANDRO. Dramma. — in Verona, per il Tumermanni. 1744 in 12 — di Paolo Rolli Poeta di S. M. Brittanica. — nel Tom. I. de Melodrammi dell'Autore. 
  
  
  dotta (in versi). — in Arezzo, per il Bellotti. 1731 in 8 — del Cav. Lorenzo Guazzesi, Aretino.
@@ -5485,7 +5485,7 @@ BAGNI D'ABANO. Dramma Giocoso. — in Venezia, per il Tavernin 17 - 53 in 12 - n
 BALDASSARE Tragedia. — in Padova. 1754 in 8 — del P. Lettor Ringhieri, Olivetano.
 BARON POLACCO INTERROTTO NE' SUOI AMORI. Commedia (di un Atto solo). — in Milano, per l'Agnelli, 11745 in 12 - nel Tom. VI. del Teatro Tragico, e Comico dell'Autore. — del Marchese Giuseppe Gorini Corio, Milanese.
 BASSIANO. Dramma. — in Belluno, per il Tissi. 1751 in 12 - nel Tomo II. ne' Drammi dell'Autore. — di Gio. Carlo Paganicesa, Bellunese. 
-BATISTA. Azione Sacra. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo VIII. delle Pocsie Drammatiche dell'Autore, — di Apostolo Zeno, Veneziano.
+BATISTA. Azione Sacra. — in Venezia, per il Pasquali. 1744 in 8 nel Tomo VIII. delle Poesie Drammatiche dell'Autore, — di Apostolo Zeno, Veneziano.
 BATTAGLIA SPIRITUALE. Oratorio in 8 
 BELISARIO. Dramma. — in Belluno, per il Tissi. 1751 in 12 - nel Tomo III. de Drammi dell'Autore. — di Gio. Carlo Paganicesa. Bellunese.
 BELLA BRUTTA. Commedia (in prosa) tradotta dallo Spagnuolo. — in Bologna, per il Recaldini, senz'anno. in 12 — da Orsola Biancolelli.
@@ -5613,49 +5613,40 @@ DAL TRADIMENTO LE NOZZE. Opera (in prosa). — in Bologna, per il Longhi. 1687 i
 DALLA TIRANNIA LA TOMBA. Tragicommedia (in prosa). — in Bologna, per il Pisarri. 1698 in 12 - di Antonio Dattorno. 
 DAVIDE IN CORTE. Tragedia. in versi). — in Bologna, per Lelio dalla Volpe. 1723 in 8 — nel Tom. IV. delle Opere dell'Autore. — di Pier Jacopo Martello, Bolognese 
 
-Padova, per il Manfrè, 1749 1a 4 variata alquanto dalla prima Edizione dal suo Autore. — di D. Alfonso Varano, di Camerino.
+DEMETRIO, Tragedia. — in Verona, per il Berno, 1745 in 8 — ed in Padova, per il Manfrè, 1749 1a 4 variata alquanto dalla prima Edizione dal suo Autore. — di D. Alfonso Varano, di Camerino.
 
 DAVIDE PENITENTE. Tragedia. — in Venezia, per il Valvasense. 1752 in 8 nel Tomo III. del Teatro Ebraico. — di Flaminio Scarselli. 
-DAVIDE PERSEGUITATO. Tragedia. 
-DEMOCRITO CREDUTO PAZZO. Comin Udine, per il Murero, 1749 in media di Hoterot Pittore tradotta 4 — del P. D. Salvador Riva, Ch. dal Francese (in versi). — in Ve
-Reg. di S.-Paolo. nezia, per il Carnioni, 1754 in 8 DAVIDE, PERSEGUITATO) DA SAUL nel Tomo I. del Teatro Comico Fran
-Tragedia. — in Roma, per il Zemcese. — del Co. Gaspero Gozzi. pel. 1736 in 8 di Farnabio Gioa
-DEMODICE. Tragedia (in versi sciolchino Annutini, cioè, Fr. G. B. ti). — in Londra, per Giacob Tom
-Bianchi, Min. Oss. son. 1721 in 8 è unita colla Mero
-DAVID UMILIATOI Azione Sacra. pe del Maffei. — di Teleste Ciparisin Venezia, per il Pasquali. 1744 siano, Pastor Arcade, cioè, Giambain 8 nel Tomo VIII. delle Pocsie Dramtista Recanati, Patrizio Veneto. matiche dell'Autore divise in X. ToDEMOFOONTE. Dramma. — in Venemi, — di Apostolo Zeno, Veneziazia, per il Bettinelli, 1733 in 4 no, Poeta Ces. nel Tomo II. delle Opere dell'Autore. 
-DE GUSTIBUS NON EST DISPUTANed ivi, per il detto. 1750 in 12 - DUM. Dramma Bernesco per Musinel Tom. III. delle Opere dello stesso. — ca da rappresentarsi nel Teatro di dell'Ab. Pietro Metastasio, Romano. S. Cassiano l'anno 1753 — in Ve DEPOSIZIONE DALLA CROCE DI GEnezia, per Modesto Fenzo, 1753
-SU CRISTO SALVATOR NOSTRO. in 12 — di Polifseno Fegejo Pastor Componimento Sacro. — i Arez
-Arcade, cioè, del Dott. Carlo Golzo, per il Bellotti. 1751 in 4 nel doni, Veneziano Tomo I. delle Opere dell'Autore uni
-DELLA INNOCENZA, E PROTETTORE te. — dell'Abate Gio. Claudio Pas11 CIELO. Opera Tragicomica (in quini prosa). — in Bologna, per il Lon
-DIANA VINDICATA. Festa per Musighi. 1691 in 12 — di D. Pompeo ca. — in Arezzo, per il Bellotti. Cadonici, Parmigiano. 1751 in 4 nel Tomo I. delle Opere 
-DEMETRIO.
-OVverq, i Dubbi Eroici dell'Autore unite, insieme. — dell'Ab. Tragicommedia. — in Modona, per Gio. Claudio Pasquini, Sanese, il Soliami. 1695 in 12 — del Dott.
-DIDONE ABBANDONATA. Tragedia. — Giambatista Boccabadati. in Venezia, per il Bettinelli, 1733 DEMETRIO. Dramma. — in Venezia, in 4 nel Tom. I. delle Opere dell'Auper il Bettinelli, 1733 in 4 nel Totore divise in V. Tomi. — ed ivi mo I. delle Opere dell'Autore divise in per il detto. senz'anno in 12 - nel Tomo V. Tomr. — ed ivi, per il detto.II. dell'Opere del detto divise in 
-VI. 1750 in 12 - nel Tomo I. delle Opere Tomi, ed in varie altre Edizioni. Drammatiche dello stesso divise in 
-VI. di Artino Coralio Pastor Arcade, Tomi, ed in varie altre Edizioni cioè, dell'Ab. Metastasio, Romano. dell'Ab. Pietro Metastasio, Romano.
-DIONE SIRACUSANO. Tragedia (in 
-DEMETRIO, Tragedia. — in Verona, versi sciolti in cinque Atti, con quatper il Berno, 1745 in 8 — ed in tre Cori). — in Bolognà, 1743 in Irr367 media (in prosa). — in Ronciglio8 — col S. Tommaso d Aquino dall'Aune, per il Leone. 1675 in 12 - tor suo cambiata, e riformata. — di del Roncini Androtiaco Pastor Arcade della Colonia di Genova, cioè del P. Giovan
-- DON PILONE, ovvero, il Bacchettone Falso. — in Lucca, per il Marescanni Granelli, Genovese, della Comdoli. 1711 in 8 — di Girolamo Gipagnia di Gesù. gli, Sanese.
-DISPOSIZIONE, E FORZA DEL DESTINO. Opera Tragicomica, — in 
-DON SANCIO D'ARACONA, Tragedia di Pietro Cornelio tradotta (in ver
-Bologna, per il Peri, 1669 in 12 - fi). — in Venezia, per il Bertella d'Incerto Autore, e falsamente attri1748 in 4 nel Tomo IV. dells Opere buita al Cicognini. del Cornelio. — da Giuseppe Baret1 
-DISSIMILI, Commedia (in prosa) ti, col Testo Francese a rincontro. ad imitazione di quella di Terenzio 
-DON SAVERIO. Dramma per Musica detta gli Adelfi, — in Firenze, ma da rappresentarsi nel Teatro di San è Venezia colla data di Firenze. 1750 Mosè di Venezia l'anno 1744.in 8 nel Tomo II. del Teatro Comico in Venezia, per Modesto Fenzo. Fiorentino, diviso in 
-VI. Tomi. — di 1744 in 12 — Poesia d'Incerto Au
-Gio. Maria Cecchi, Fiorentind. tore. — Musica di Giuseppe d'Anora.
-DISSOLUTO, o sia, D. Giovanni Tenorio, Commedia (in versi). — in
-DONNA DIGARBO. Commedia (in prosa). — in Venezia, per il Bet
-Firenze, per il Paperini. 1754 in tinelli. 1750 in 8 nel Tomo I. del8 nel Tomo VII. delle Commedie dell'le Commedie dell'Autore, — in Bolo
-Autore, — in Pesaro, per il Gavelgna, per gli Eredi del Pisarri. 1751 li. 1754 in 12 - nel Tomo VII. — in in 8 nel Pomo I. — in Firenze, per Bologna, per gli Eredi del Pisarri. ali Eredi Paperini. 1750 in 8 nel — in Ve1754 in 8 nel Tomo.. Tomo V. — in Pesaro, per il Gavelnezia, per il Bettinelli... in li. 1753 in 12 - Tomo V. — in Ve12 nel Tomo.. — del Dott. Carlo nezia, per il Bettinelli... in 12 - Goldoni, Veneziano. nel Tomo.. — del Dott. Carlo Gol
-DISTRUZIONE DI SAUL, E PIANTO doni, Veneziano 
-DI DAVID. Rappresentazione (in
-DONNA VENDICATIVA. Commedia versi). — in Firenze, senza Stampa(in prosa). — in Firenze, per gli tore, 1559 in 4 — d'Autore In
-Eredi Paperini. 1754 in 8 nel Tocerto. mo 
-VII. delle Commedie dell'Autore 
-DON GARZIA DI NAVARRA. Comin Pesaro, per il Gavelli, 1754 in media di M. Moliere tradotta (in pro12 nel Tomo VII. — in Bologna, per sa). — in Lipsia, per il Gleditich. gli Eredi del Pisarri, 1754 in 8 nel 1698 in 12 - nel Tomo IV. delle Ope
-Tomo IV. — in Venezia, per il Betre del Melier. — da Niccola de Catinelli... in 12 - nel Tom. — stelli del Dottor Carlo Goldoni, Vene
-DON GASTONE DI MONCADA. Traziano. gicommedia (in prosa). — in Bologna, per il Longhi. 1682 in 12 — 
-DONNE CURIOSE, Commedia (in prosa). — in Firenze, per gli Eredi Giacinto Andrea Cicognini, Fiodi Paperini. 1753 in 8 nel Tom. IV. rentino delle Commedie dell'Autore. — in PeDON PASQUALE IN VILLA. Comsaro, 869 lodrammi dell'Autere. — di Arcange saro, per il Gavelli. 1753 in 12 - lo Spagna nel Tomo IV. — in Bologna, per gli Eredi Pisarri. 1754 in 8 nel Tomo
+DAVIDE PERSEGUITATO. Tragedia. in Udine, per il Murero, 1749 in 4 — del P. D. Salvador Riva, Ch. Reg. di S. Paolo. 
+DEMOCRITO CREDUTO PAZZO. Commedia di Hoterot Pittore tradotta dal Francese (in versi). — in Venezia, per il Carnioni, 1754 in 8 nel Tomo I. del Teatro Comico Francese. — del Co. Gaspero Gozzi. 
+DAVIDE, PERSEGUITATO DA SAUL Tragedia. — in Roma, per il Zempel. 1736 in 8 di Farnabio Gioachino Annutini, cioè, Fr. G. B. Bianchi, Min. Oss. 
+DEMODICE. Tragedia (in versi sciolti). — in Londra, per Giacob Tomson. 1721 in 8 è unita colla Merope del Maffei. — di Teleste Ciparissiano, Pastor Arcade, cioè, Giambatista Recanati, Patrizio Veneto. 
+DAVID UMILIATO. Azione Sacra. in Venezia, per il Pasquali. 1744 in 8 nel Tomo VIII. delle Poesie Drammatiche dell'Autore divise in X. Tomi, — di Apostolo Zeno, Veneziano, Poeta Ces. 
+DEMOFOONTE. Dramma. — in Venezia, per il Bettinelli, 1733 in 4 nel Tomo II. delle Opere dell'Autore. ed ivi, per il detto. 1750 in 12 - nel Tom. III. delle Opere dello stesso. — dell'Ab. Pietro Metastasio, Romano. 
+DE GUSTIBUS NON EST DISPUTANDUM. Dramma Bernesco per Musica da rappresentarsi nel Teatro di S. Cassiano l'anno 1753 — in Venezia, per Modesto Fenzo, 1753 in 12 — di Polisseno Fegejo Pastor Arcade, cioè, del Dott. Carlo Goldoni, Veneziano
+DEPOSIZIONE DALLA CROCE DI GESU' CRISTO SALVATOR NOSTRO.  Componimento Sacro. — in Arezzo, per il Bellotti. 1751 in 4 nel  Tomo I. delle Opere dell'Autore unite. — dell'Abate Gio. Claudio Pasquini 
+DELLA INNOCENZA E' PROTETTORE IL CIELO. Opera Tragicomica (in prosa). — in Bologna, per il Longhi. 1691 in 12 — di D. Pompeo Cadonici, Parmigiano. 
+DIANA VINDICATA. Festa per Musica. — in Arezzo, per il Bellotti. 1751 in 4 nel Tomo I. delle Opere dell'Autore unite, insieme. — dell'Ab. Gio. Claudio Pasquini, Sanese
+DEMETRIO, ovvero, i Dubbi Eroici. Tragicommedia. — in Modona, per il Soliami. 1695 in 12 — del Dott. Giambatista Boccabadati. 
+DIDONE ABBANDONATA. Tragedia. — in Venezia, per il Bettinelli, 1733 in 4 nel Tom. I. delle Opere dell'Autore divise in V. Tomi. — ed ivi per il detto. senz'anno in 12 - nel Tomo II. dell'Opere del detto divise in VI. Tomi, ed in varie altre Edizioni. di Artino Corasio Pastor Arcade, cioè, dell'Ab. Metastasio, Romano.
+DEMETRIO. Dramma. — in Venezia, per il Bettinelli, 1733 in 4 nel Tomo I. delle Opere dell'Autore divise in  V. Tomr. — ed ivi, per il detto. 1750 in 12 - nel Tomo I. delle Opere Drammatiche dello stesso divise in VI. Tomi, ed in varie altre Edizioni  dell'Ab. Pietro Metastasio, Romano.
+DIONE SIRACUSANO. Tragedia (in versi sciolti in cinque Atti, con quattro Cori). — in Bologna, 1745 in 8 - col S. Tommaso d Aquino dall'Autor suo cambiata, e riformata. — di Androtiaco Pastor Arcade della Colonia di Genova, cioè del P. Giovanni Granelli, Genovese, della Compagnia di Gesù. 
+
+
+DON PASQUALE IN VILLA. Commedia (in prosa). — in Ronciglione, per il Leone. 1675 in 12 - del Roncini 
+DON PILONE, ovvero, il Bacchettone Falso. — in Lucca, per il Marescandoli. 1711 in 8 — di Girolamo Gigli, Sanese.
+DISPOSIZIONE, E FORZA DEL DESTINO. Opera Tragicomica, — in Bologna, per il Peri, 1669 in 12 -  d'Incerto Autore, e falsamente attribuita al Cicognini. 
+DON SANCIO D'ARAGONA, Tragedia di Pietro Cornelio tradotta (in versi). — in Venezia, per il Bertella 1748 in 4 nel Tomo IV. delle Opere del Cornelio. — da Giuseppe Baretti, col Testo Francese a rincontro. 
+DISSIMILI, Commedia (in prosa) ad imitazione di quella di Terenzio detta gli Adelfi, — in Firenze, ma è Venezia colla data di Firenze. 1750 in 8 nel Tomo II. del Teatro Comico Fiorentino, diviso in VI. Tomi. - di Gio. Maria Cecchi, Fiorentino. 
+DON SAVERIO. Dramma per Musica da rappresentarsi nel Teatro di San  Mosè di Venezia l'anno 1744. in Venezia, per Modesto Fenzo. — di 1744 in 12 — Poesia d'Incerto Autore. — Musica di Giuseppe d'Anora.
+DISSOLUTO, o sia, D. Giovanni Tenorio, Commedia (in versi). — in Firenze, per il Paperini. 1754 in 8 nel Tomo VII. delle Commedie dell'Autore, — in Pesaro, per il Gavelli. 1754 in 12 - nel Tomo VII. — in Bologna, per gli Eredi del Pisarri. 1754 in 8 nel Tomo.. in Venezia, per il Bettinelli... in 12 nel Tomo...  — del Dott. Carlo Goldoni, Veneziano. 
+DONNA DI GARBO. Commedia (in prosa). — in Venezia, per il Bettinelli. 1750 in 8 nel Tomo I. delle Commedie dell'Autore, — in Bologna, per gli Eredi del Pisarri. 1751 in 8 nel Tomo I. — in Firenze, per li Eredi Paperini. 1750 in 8 nel Tomo V. — in Pesaro, per il Gavelli. 1753 in 12 Tomo V. — in Venezia, per il Bettinelli... in 12 - nel Tomo.. — del Dott. Carlo Goldoni, Veneziano 
+DISTRUZIONE DI SAUL, E PIANTO DI DAVID. Rappresentazione (in versi). — in Firenze, senza Stampatore, 1559 in 4 — d'Autore Incerto. 
+DONNA VENDICATIVA. Commedia (in prosa). — in Firenze, per gli Eredi Paperini. 1754 in 8 nel Tomo VII. delle Commedie dell'Autore - in Pesaro, per il Gavelli, 1754 in 12 nel Tomo VII. — in Bologna, per Tomo IV. — in Venezia, per il Bettinelli... in 12 - nel Tom... — del Dottor Carlo Goldoni, Veneziano. 
+DON GARZIA DI NAVARRA. Commedia di M. Moliere tradotta (in prosa). — in Lipsia, per il Gleditsch. gli Eredi del Pisarri, 1754 in 8 nel 1698 in 12 - nel Tomo IV. delle Opere del Molier. — da Niccola de Castelli 
+DON GASTONE DI MONCADA. Tragicommedia (in prosa). — in Bologna, per il Longhi. 1682 in 12 — di Giacinto Andrea Cicognini, Fiorentino
+DONNE CURIOSE, Commedia (in prosa). — in Firenze, per gli Eredi Paperini. 1753 in 8 nel Tom. IV.  delle Commedie dell'Autore. — in Pesaro, 
+
+ lodrammi dell'Autere. — di Arcange saro, per il Gavelli. 1753 in 12 - lo Spagna nel Tomo IV. — in Bologna, per gli Eredi Pisarri. 1754 in 8 nel Tomo
 i DUE DITTATORI. Dramma, — in Venezia, per il Pasquali. 1744 in 
 VII. — ed in Venezia, per il Bet8 nel Tomo II. delle Poesie Drammatinelli. in 8 — ivi, per il detto in tiche dell'Autore divise in X. Tomi. 12 nella Raccolta delle sue Commedie. di Apostolo Zeno Veneziano. del Dottor Carlo Goldoni, Vene
 DUE LUMINARI DEL TEBRO. — in ziano, Roma, per il Buagni. 1706 in 12 - 
@@ -5989,7 +5980,7 @@ MONDO DELLA LUNA. Dramma viso in
 VI. Tomi. — di Gio. Maria per Musica rappresentato nel Teatro Cecchi, Fiorentino. di S. Mose di Venezia l'anno 1750
 MOGLIE SAGGIA. Commedia (in in Venezia, per Modesto Fenzo. prosa). — in Firenze, per gli Ere1750 in 12 — Poesia del Dott. Cardi Paperini; 1753 in 8 nel Tomo IV. lo Goldoni, Veneziano. — Musica delle Commedie dell'Autore, — in Bodi Baldassarre Galuppi, Veneziano. logna, per gli Eredi Pisarri. 1754 ivi, per il Tavernin. 1753 in 12 - Lin 8 nel Tom. VII. — in Pesaro, nel Tomo II. delle Opere Giocose dell'per il Gavelli. 1753 in 12 - nel To
 Autore. — di Polisseno Fegejo Past. mo IV. — ed in Venezia col titolo Arc. cioè, del Dottor Carlo Goldodi Moglie Amorosa, per il Bettinelli ni, Veneziano. 1753 in 8 nel Tomo VI. — del Dot
-- MONSIEUR PETITON. Intermedio in tor Carlo Goldoni, Veneziano. Musica. — in Venezia, per il Ta
+MONSIEUR PETITON. Intermedio in tor Carlo Goldoni, Veneziano. Musica. — in Venezia, per il Ta
 MOLIERE. Commedia (in versi Marvernin. 1753 in 12 - nel Tomo IV. telliani). — in Firenze, per gli Edelle Opere Giocose, — di Polisseno redi Paperini. 1753 in 8 nel Tomo Fegejo Pastor Arcade, ciod, del Dott.II. delle Commedie dell'Autere. Carlo Goldoni, Veneziano. in Venezia, per il Betrinelli, 1753 MORONTE. Favola Pastorale. in 8 nel Tomo IV. — in Bologna, Bruselles, per il Vulpio. 1733 in 8 per gli Eredi Pisarri, 1754 in 8 di Lelio Santa Maria, di Giloni nel nel Tomo V. — in Pesaro, per al Ga
 Regno di Napoli. velli. 1754 in 12 - nel Tomo II. — 
 MORTE DI ABELE. Componimento di Polisseno Fegejo Pastor Arcade, Sacro per Musica. — in Venezia, cioè, del Dott. Carlo Goldoni, Veper il Bettinelli. 1733 in 4 nel Tomo nezianoIII. delle Opere dell'Autore, — ivi.
